@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+### Day 0: August 20, 2020
+
+#### Today's Progress
+
+Learn create Scala's animation, GUI
+
+#### Thoughts
+
+The first day of [Write Code Everyday](https://johnresig.com/blog/write-code-every-day/)
+I tweet my progress it on every weekend. ([#WriteCodeEveryday](https://twitter.com/search?q=%23WriteCodeEveryday&src=typed_query))
+
+I've definitely done #WriteCodeEveryday. So, my spirit and humanity will grow by having this experiences. 
+
+I give this word by Richard M Nixon to myself a year later.
+
+> "Human is not finished when That person is defeated. That person is finished when That person quits."
+> 
+
+#### Link to work
+
+- [kk0917/n-school-scala-animation](https://github.com/kk0917/n-school-scala-animation)
+- [kk0917/n-school-scala-gui](https://github.com/kk0917/n-school-scala-gui)
+
+--
+--
+Templates:
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
