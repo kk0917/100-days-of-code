@@ -1,6 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 20, 2020
+`Write Record Descending date order`
+
+## Day 1: Nov 4, 2020
+
+#### Today's Progress
+
+Learn to create parser
+
+#### Thoughts
+
+It was so difficult for me to understand various parser. Read text, write sample code, Read text..., I'm unconfident using today's learning as my programming skills.
+Anyways, I should remember it with my body if I can't remember it with my head.
+
+Writes As many as one line, one character everyday.
+
+#### Link to work
+
+- [commits: kk0917/scala-parser-combinator](https://github.com/kk0917/scala-parser-combinator/pull/7/commits/791a3c730fe75ddca8745d761232dae36e3eab51)
+
+## Day 0: August 20, 2020
 
 #### Today's Progress
 
@@ -8,7 +27,7 @@ Learn create Scala's animation, GUI
 
 #### Thoughts
 
-The first day of [Write Code Everyday](https://johnresig.com/blog/write-code-every-day/)
+The first day of [Write Code Everyday](https://johnresig.com/blog/write-code-every-day/).
 I tweet my progress it on every weekend. ([#WriteCodeEveryday](https://twitter.com/search?q=%23WriteCodeEveryday&src=typed_query))
 
 I've definitely done #WriteCodeEveryday. So, my spirit and humanity will grow by having this experiences. 
