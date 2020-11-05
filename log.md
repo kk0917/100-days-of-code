@@ -2,6 +2,20 @@
 
 `Write Record Descending date order`
 
+## Day 2: Nov 5, 2020
+
+#### Today's Progress
+
+Play Play Framework
+
+#### Thoughts
+
+I'd touched programming language framework after a long time. It was fun to touch the mature framework and touch its architecture and ideas for the first time in a while.
+
+#### Link to work
+
+- [commits: kk0917/scala-playframework2](https://github.com/kk0917/scala-playframework2/commit/26ae08be8e9d8ca4b1528dfadc2d0fb5073f3311)
+
 ## Day 1: Nov 4, 2020
 
 #### Today's Progress
