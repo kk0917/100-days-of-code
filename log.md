@@ -1,6 +1,33 @@
-# 100 Days Of Code - Log
+# 1000 ~~100~~ Days Of Code - Log
 
 `Write Record Descending date order`
+
+## Day 3: Nov 6, 2020
+
+#### Today's Progress
+
+- Replace Rest API cloud functions codes
+	- To prepare adding another functions
+- Create Scraping cloud functions codes
+	- Scrape zip file number from a target site, request HTTP POST with zip file number into request body, and fetch zip files.
+
+#### Thoughts
+
+It was first time to create the scraping programming. Scraping looks like E2E test automation tools. Selenium, Cypress etc. Both are sober and steady work, but it's important things to work Sincerely.
+
+By the way, coding 100 days challenge is too short for my programming life. So, I changed 1000 days challenge.
+
+#### Link to work
+
+My Repository: [kk0917/google-cloud-functions-sample](https://github.com/kk0917/google-cloud-functions-sample)
+
+- API-related
+	- [commit=feat: replace rest api function ](https://github.com/kk0917/google-cloud-functions-sample/commit/89283dac246ca24be19739e666c9b4c9bd14dc46)
+	- [commit=chore: add docstrings ](https://github.com/kk0917/google-cloud-functions-sample/commit/f0185a0a7f06e344c244674b337cecbb11ace2e3)
+- Scraping-related
+	- [commit=feat: create scraping function](https://github.com/kk0917/google-cloud-functions-sample/commit/e482152bbfff96006e86ae0422b429fbc755de06)
+
+
 
 ## Day 2: Nov 5, 2020
 
