@@ -2,6 +2,23 @@
 
 `Write Record Descending date order`
 
+## Day 4: Nov 7, 2020
+
+#### Today's Progress
+
+Create my "Scala Project Template". With a tool called Giter8
+You can generate the directory structure, definition file, etc. when starting a Scala language project with sbt. This template is packed with various useful tools. Unit test tool, test coverage tool, testing framework, code formatter, code style checker, and GitHub Actions CI workflow.
+
+#### Thoughts
+
+TO introduce One tool of them is easy, but it's very annoying and boring to introduce all of them at once.
+
+I of the future will thank me of today...(Is this sentence correct?)
+
+#### Link to work
+
+- [GitHub Repository: scala-templates](https://github.com/kk0917/scala-templates)
+
 ## Day 3: Nov 6, 2020
 
 #### Today's Progress
@@ -26,8 +43,6 @@ My Repository: [kk0917/google-cloud-functions-sample](https://github.com/kk0917/
 	- [commit=chore: add docstrings ](https://github.com/kk0917/google-cloud-functions-sample/commit/f0185a0a7f06e344c244674b337cecbb11ace2e3)
 - Scraping-related
 	- [commit=feat: create scraping function](https://github.com/kk0917/google-cloud-functions-sample/commit/e482152bbfff96006e86ae0422b429fbc755de06)
-
-
 
 ## Day 2: Nov 5, 2020
 
