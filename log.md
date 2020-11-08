@@ -2,6 +2,22 @@
 
 `Write Record Descending date order`
 
+## Day 5: Nov 8, 2020
+
+#### Today's Progress
+
+Learn module pattern of design patterns with writing codes
+
+#### Thoughts
+
+JavaScript language doesn't have namespace, but it can create module pattern using Immediately-Invoked Functions. It's so difficult for me to understand its concept when I was first year since starting programmer carrear. 
+
+I wanna say "Haha! Don't worry. Your eyes will be used to it".
+
+#### Link to work
+
+- [Commit: javascript-design-patterns](https://github.com/kk0917/javascript-design-patterns/pull/9)
+
 ## Day 4: Nov 7, 2020
 
 #### Today's Progress
