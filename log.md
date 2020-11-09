@@ -2,6 +2,20 @@
 
 `Write Record Descending date order`
 
+## Day 6: Nov 9, 2020
+
+#### Today's Progress
+
+Learn Revealing Module Pattern of design patterns with writing codes
+
+#### Thoughts
+
+This design pattern is clear what private functions or propperties is published, readable　by using pointers. I got it.
+
+#### Link to work
+
+- [Commit: learn 2.3 Revealing Module Patterns](https://github.com/kk0917/javascript-design-patterns/commit/3893cbc34afacc8a3672d18fd7d620f82d4fa811)
+
 ## Day 5: Nov 8, 2020
 
 #### Today's Progress
