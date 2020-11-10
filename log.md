@@ -2,6 +2,20 @@
 
 `Write Record Descending date order`
 
+## Day 7: Nov 9, 2020
+
+#### Today's Progress
+
+Learn Thread's concept and how to execute Scala's concurrent processing by using java.lang.Thread.
+
+#### Thoughts
+
+"concurrent" is "並行" in Japanese. "Parallel" is "並列" in Japanese. So, I should care to read one sentences these similar words are mixed in.
+
+#### Link to work
+
+- [Commit: chore: learn scala's concurrent processing by using thread](https://github.com/kk0917/n-school-scala-concurrent/commit/9dc01fdab27853991d2fbe8fac42731537905fae)
+
 ## Day 6: Nov 9, 2020
 
 #### Today's Progress
