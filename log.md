@@ -2,6 +2,21 @@
 
 `Write Record Descending date order`
 
+## Day 8: Nov 9, 2020
+
+#### Today's Progress
+
+Learn how to process Scala's Thread safety.
+
+#### Thoughts
+
+I understood base concept of Thread safe. But What you know is different from what you can use.
+
+#### Link to work
+
+- [Commit: learn how to execute thread processing safety](https://github.com/kk0917/n-school-scala-concurrent/commit/23f52c7230b3376b1613b909bb31b3a9d6cc9315)
+
+
 ## Day 7: Nov 9, 2020
 
 #### Today's Progress
