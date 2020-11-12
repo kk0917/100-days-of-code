@@ -2,6 +2,25 @@
 
 `Write Record Descending date order`
 
+
+## Day 9: Nov 9, 2020
+
+#### Today's Progress
+
+- Learn how to process Scala's Thread safety, yesterday's continuation.
+- Update GitHub actions settings of Scala Templates
+
+#### Thoughts
+
+I knew to be used synchronized block into lazy Modifier.
+
+I separated each CI blocks into GitHub Actions settings to several files. Build, lint, test, commitlint. Because when all of them is includes one file, CI processings will stop if one processing fail.
+
+#### Link to work
+
+- [Commit: learn synchronized processing of check and then, long lock.](https://github.com/kk0917/n-school-scala-concurrent/commit/beb6437afa285703155ef609ff0a0b58589eae37)
+- [Repo: scala-templates](https://github.com/kk0917/scala-templates)
+
 ## Day 8: Nov 9, 2020
 
 #### Today's Progress
