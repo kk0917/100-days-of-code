@@ -3,7 +3,7 @@
 `Write Record Descending date order`
 
 
-## Day 9: Nov 9, 2020
+## Day 9: Nov 12, 2020
 
 #### Today's Progress
 
@@ -21,7 +21,7 @@ I separated each CI blocks into GitHub Actions settings to several files. Build,
 - [Commit: learn synchronized processing of check and then, long lock.](https://github.com/kk0917/n-school-scala-concurrent/commit/beb6437afa285703155ef609ff0a0b58589eae37)
 - [Repo: scala-templates](https://github.com/kk0917/scala-templates)
 
-## Day 8: Nov 9, 2020
+## Day 8: Nov 11, 2020
 
 #### Today's Progress
 
@@ -36,7 +36,7 @@ I understood base concept of Thread safe. But What you know is different from wh
 - [Commit: learn how to execute thread processing safety](https://github.com/kk0917/n-school-scala-concurrent/commit/23f52c7230b3376b1613b909bb31b3a9d6cc9315)
 
 
-## Day 7: Nov 9, 2020
+## Day 7: Nov 10, 2020
 
 #### Today's Progress
 
