@@ -2,6 +2,23 @@
 
 `Write Record Descending date order`
 
+## Day 10: Nov 13, 2020
+
+#### Today's Progress
+
+- Try to create api by using Akka HTTP Scala library.
+
+#### Thoughts
+
+I can only make base template... I'd like to master creating APIs by using Akka HTTP quickly.
+
+#### Link to work
+
+- [Repo: akka-http-trial](https://github.com/kk0917/akka-http-trial)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201113.png)
 
 ## Day 9: Nov 12, 2020
 
