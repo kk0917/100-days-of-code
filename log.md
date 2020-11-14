@@ -2,6 +2,26 @@
 
 `Write Record Descending date order`
 
+## Day 11: Nov 14, 2020
+
+#### Today's Progress
+
+- Created HTTP Routing implementetion by using Akka HTTP Scala library.
+
+#### Thoughts
+
+Haha! It tooks 3 hours.., slow progress.
+
+I was able to implement it, but I was not able to internal logic of Akka HTTP yet. Anyway, I've deepen my understanding while writing code.
+
+#### Link to work
+
+- [Commit: Create HTTP Routing](https://github.com/kk0917/akka-http-trial/pull/1/commits/0b3f056c590340a44ad64f8b33df271e1789ba18)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201114.png)
+
 ## Day 10: Nov 13, 2020
 
 #### Today's Progress
