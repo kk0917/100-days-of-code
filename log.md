@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 12: Nov 15, 2020
+
+#### Today's Progress
+
+- I tried Akka HTTP library with Scala.js by using Gitter8 Templates.
+
+#### Thoughts
+
+I understood the project's structure. I'd like to master Scala.jp like Akka.
+
+#### Link to work
+
+- [Repo: try-akka-http-scalajs](https://github.com/kk0917/try-akka-http-scalajs)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201115.png)
+
 ## Day 11: Nov 14, 2020
 
 #### Today's Progress
