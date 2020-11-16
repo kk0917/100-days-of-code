@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 13: Nov 16, 2020
+
+#### Today's Progress
+
+- Learn Singleton design pattern into [Learning JavaScript design patterns](https://www.amazon.co.jp/dp/1449331815/ref=cm_sw_r_tw_dp_x_CvMSFb1J3D1GB)
+
+#### Thoughts
+
+I often use singleton object when I write Scala codes. It's a lot of learning to write that design pattern codes at two different angles.
+
+#### Link to work
+
+- [Commit: Learn 2.4 Singleton Pattern](https://github.com/kk0917/javascript-design-patterns/commit/17861c5fcf96c031c7417e842ee4b1934222629c)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201116.png)
+
 ## Day 12: Nov 15, 2020
 
 #### Today's Progress
