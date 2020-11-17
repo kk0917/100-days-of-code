@@ -2,6 +2,27 @@
 
 `Write Record Descending date order`
 
+## Day 14: Nov 17, 2020
+
+#### Today's Progress
+
+- Refactoring existing codes.
+
+#### Thoughts
+
+I said "refactoring...", but I do not a big deal. tidied up codes indent, add blank lines between variables and function codes, delete unneccesery comment annexed codes that understands the intention without writing it... 
+
+In short, I refactored codes more readable. It's important and helpful for another person maintains this code in the future to do it. I think The best thing is that it's easy to maintain.
+
+#### Link to work
+
+- [Commit: refactor: refactor existing files for generating dic](https://github.com/kk0917/zero-jcldic-verification/commit/99fd3cd1f5f9b83b175153e3bc462a5683a486fa)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201117.png)
+
+
 ## Day 13: Nov 16, 2020
 
 #### Today's Progress
