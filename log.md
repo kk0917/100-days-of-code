@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 15: Nov 18, 2020
+
+#### Today's Progress
+
+- Learn Singleton design pattern with writing JS codes.
+
+#### Thoughts
+
+I learned Singleton pattern is to careful being Tightly coupled codes!!
+
+#### Link to work
+
+- [Commit: Learn Singleton pattern](https://github.com/kk0917/javascript-design-patterns/commit/735df07136a7299e00e0d27d054156f1adaffbb3)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201118.png)
+
 ## Day 14: Nov 17, 2020
 
 #### Today's Progress
