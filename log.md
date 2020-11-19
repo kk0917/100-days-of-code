@@ -2,6 +2,25 @@
 
 `Write Record Descending date order`
 
+## Day 16: Nov 19, 2020
+
+#### Today's Progress
+
+- Try scala-i18n
+
+#### Thoughts
+
+It's useful. That's all. Thanks [alaz](https://github.com/alaz).
+
+#### Link to work
+
+- [Source Repo: scala-i18n](https://github.com/osinka/scala-i18n)
+- [Commit: initial commit](https://github.com/kk0917/try-scala-i18n/commit/44068e715e0aa8063d2a0e7dfe1f04c905d08103)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201119.png)
+
 ## Day 15: Nov 18, 2020
 
 #### Today's Progress
