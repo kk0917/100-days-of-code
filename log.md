@@ -2,6 +2,25 @@
 
 `Write Record Descending date order`
 
+## Day 17: Nov 20, 2020
+
+#### Today's Progress
+
+- Fix scala-i18n error
+- Learn Observer Design Pattern
+
+#### Thoughts
+
+WIP. I haven't had enough time since yesterday to Learn. I'll recover on this weekend.
+
+#### Link to work
+
+- [Commit: Learn Observer Design Pattern](https://github.com/kk0917/javascript-design-patterns/commit/3ea1187feac614bebae4aa32d9687f71105c4f9c)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201120.png)
+
 ## Day 16: Nov 19, 2020
 
 #### Today's Progress
