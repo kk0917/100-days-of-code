@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 18: Nov 21, 2020
+
+#### Today's Progress
+
+- Try Slick - Scala ORM Library
+
+#### Thoughts
+
+I wanted to apply Schema and table codes written Slick syntax to databases, but I wasted times to initial settings and local db's error... So, time is over. I'll try again tomorrow. Don't give me up!
+
+#### Link to work
+
+- [Repo: kk0917/try-typesafe-slick](https://github.com/kk0917/try-typesafe-slick)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201121.png)
+
 ## Day 17: Nov 20, 2020
 
 #### Today's Progress
