@@ -2,6 +2,26 @@
 
 `Write Record Descending date order`
 
+## Day 21: Nov 24, 2020
+
+#### Today's Progress
+
+- Try Slick - Scala ORM Library
+- Learn Observer Design pattern with writing JavaScript codes
+
+#### Thoughts
+
+It's difficult for me to understand the Slick Documentation, so the progress has stopped...
+
+#### Link to work
+
+- [Repo: kk0917/try-typesafe-slick](https://github.com/kk0917/try-typesafe-slick)
+- [Commit: WIP Learn Observer Design Pattern](https://github.com/kk0917/javascript-design-patterns/commit/7afe358cf8b901075f126ad9fde0c549c06dfe96)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201124.png)
+
 ## Day 20: Nov 23, 2020
 
 #### Today's Progress
