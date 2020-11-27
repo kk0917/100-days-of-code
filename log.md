@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 24: Nov 27, 2020
+
+#### Today's Progress
+
+- Learn Observer Design Pattern with writing JavaScript codes
+
+#### Thoughts
+
+I wrote codes. next is running codes and deepen understandings.
+
+#### Link to work
+
+- [Commit: WIP Learn Observer Design Pattern](https://github.com/kk0917/javascript-design-patterns/commit/52cfa6853c9ca8af7a0f6f15ded4b3ab08e5190b)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201127.png)
+
 ## Day 23: Nov 26, 2020
 
 #### Today's Progress
