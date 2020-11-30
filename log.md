@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 27: Nov 30, 2020
+
+#### Today's Progress
+
+- Try implement Pub/Sub example.
+
+#### Thoughts
+
+I've tried various implementation samples, so I Deepened my understanding.
+
+#### Link to work
+
+- [Commit: WIP Learn Observer Design Pattern](https://github.com/kk0917/javascript-design-patterns/commit/7e827200e50e2c14614eea26f69464266ab11c7b)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201130.png)
+
 ## Day 26: Nov 29, 2020
 
 #### Today's Progress
