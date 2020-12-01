@@ -2,6 +2,26 @@
 
 `Write Record Descending date order`
 
+## Day 28: Dec 1, 2020
+
+#### Today's Progress
+
+- Try implementing Pub/Sub example.
+- Try how to config Slick's database connection.
+
+#### Thoughts
+
+Slick continues to make no progress.. I google it again and read official reference again, and again..
+
+#### Link to work
+
+- [Repo: kk0917/try-typesafe-slick](https://github.com/kk0917/try-typesafe-slick)
+- [Commit: WIP Learn Observer Design Pattern](https://github.com/kk0917/javascript-design-patterns/commit/f2353f72993d6ecaa565ae09db107aa4f15a8fcf)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201201.png)
+
 ## Day 27: Nov 30, 2020
 
 #### Today's Progress
