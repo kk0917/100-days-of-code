@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 29: Dec 2, 2020
+
+#### Today's Progress
+
+- Learn Mediator Design Pattern by using JS codes.
+
+#### Thoughts
+
+I can't understand Mediator pattern perfectly yet. I need more learn.
+
+#### Link to work
+
+- [Commit: WIP Learn Mediator Design Pattern](https://github.com/kk0917/javascript-design-patterns/commit/3db486343d56500d962d5fa8f53848391ab31259)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_2020120.png)
+
 ## Day 28: Dec 1, 2020
 
 #### Today's Progress
