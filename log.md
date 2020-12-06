@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 33: Dec 6, 2020
+
+#### Today's Progress
+
+- Learn Scala case class
+
+#### Thoughts
+
+I learned Scala's case class is light means has various and utility methods.
+
+#### Link to work
+
+- [PR: WIP Learn how to use case class that have various utility method](https://github.com/kk0917/scala-puzzlers/pull/13)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201206.png)
+
 ## Day 32: Dec 5, 2020
 
 #### Today's Progress
