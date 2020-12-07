@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 34: Dec 7, 2020
+
+#### Today's Progress
+
+- Learn Scala case class
+
+#### Thoughts
+
+case class is very useful. it is unneccessery to override equals, hashCode, and toString methods, not to clarify "new" word when instance a class.
+
+#### Link to work
+
+- [PR: Learn how to use case class that have various utility method](https://github.com/kk0917/scala-puzzlers/pull/13)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201207.png)
+
 ## Day 33: Dec 6, 2020
 
 #### Today's Progress
