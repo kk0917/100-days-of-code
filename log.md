@@ -2,6 +2,44 @@
 
 `Write Record Descending date order`
 
+## Day ~~36~~: Dec 9, 2020
+
+#### Today's Progress
+
+None
+
+#### Thoughts
+
+I lost myself. But I cannot be helped, because I'm a human.
+
+"Humans are not over when they lose, humans are over when they give up."
+
+#### Link to work
+
+None
+
+#### Statistics - WakaTime
+
+None
+
+## Day 35: Dec 8, 2020
+
+#### Today's Progress
+
+- Learn Mediator Design pattern
+
+#### Thoughts
+
+Study is easy. Learn is difficult.
+
+#### Link to work
+
+- [PR: Add implementation sample of Mediator Design Pattern](https://github.com/kk0917/javascript-design-patterns/pull/30)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201209.png)
+
 ## Day 34: Dec 7, 2020
 
 #### Today's Progress
