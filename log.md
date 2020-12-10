@@ -2,6 +2,26 @@
 
 `Write Record Descending date order`
 
+## Day 36: Dec 10, 2020
+
+#### Today's Progress
+
+Learn characteristic of lazy val syntax in Scala language
+
+#### Thoughts
+
+lazy val doesn't only initialize by first access, it initialize again when exceptions are thrown in the middle of initialization.
+
+So, Scala initialize processing every time it access until initialization success. This is an effective choice to the lazy initialization of resource.
+
+#### Link to work
+
+- [Pull Request](https://github.com/kk0917/scala-puzzlers/pull/14)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201210.png)
+
 ## Day ~~36~~: Dec 9, 2020
 
 #### Today's Progress
