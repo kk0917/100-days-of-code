@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 37: Dec 11, 2020
+
+#### Today's Progress
+
+Learn Prototype Design Pattern.
+
+#### Thoughts
+
+Prototype is familiar with JS codes.
+
+#### Link to work
+
+- [PR: javascript-design-patterns](https://github.com/kk0917/javascript-design-patterns/pull/31)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201211.png)
+
 ## Day 36: Dec 10, 2020
 
 #### Today's Progress
