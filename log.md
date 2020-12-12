@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 38: Dec 12, 2020
+
+#### Today's Progress
+
+Review Constructor Design Pattern codes.
+
+#### Thoughts
+
+I deeply learned that pattern.
+
+#### Link to work
+
+- [PR: javascript-design-patterns](https://github.com/kk0917/javascript-design-patterns/pull/32)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201212.png)
+
 ## Day 37: Dec 11, 2020
 
 #### Today's Progress
