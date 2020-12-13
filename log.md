@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 39: Dec 13, 2020
+
+#### Today's Progress
+
+Learn iteration processing by using Scala's map function
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+- [PR: scala-puzzlers](https://github.com/kk0917/scala-puzzlers/pull/15)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201213.png)
+
 ## Day 38: Dec 12, 2020
 
 #### Today's Progress
