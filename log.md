@@ -2,11 +2,34 @@
 
 `Write Record Descending date order`
 
+## Day 40: Dec 14, 2020
+
+#### Today's Progress
+
+Learn JavaScript Design Patterns
+
+- Refactor codes
+	- Constructor pattern
+	- Module pattern
+
+#### Thoughts
+
+There are something you can see by refactoring codes.
+
+#### Link to work
+
+- [PR: refactor: update Constructor pattern](https://github.com/kk0917/javascript-design-patterns/pull/33)
+- [PR: refactor: update function literal to arrow formula](https://github.com/kk0917/javascript-design-patterns/pull/34)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201214.png)
+
 ## Day 39: Dec 13, 2020
 
 #### Today's Progress
 
-Learn iteration processing by using Scala's map function
+Learn iteration processing by using Scala's map function.
 
 #### Thoughts
 
