@@ -2,6 +2,27 @@
 
 `Write Record Descending date order`
 
+## Day 41: Dec 15, 2020
+
+#### Today's Progress
+
+Learn Scala Puzzles
+
+- Puzzle 12
+	- To Map, or Not to Map
+
+#### Thoughts
+
+Be careful not to be taken over the source collection's order automatically when the converting execute on Collection type, especially when let several operations chained.
+
+#### Link to work
+
+- [PR: Learn careful point when converting the order of Collection type](https://github.com/kk0917/scala-puzzlers/pull/15)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201215.png)
+
 ## Day 40: Dec 14, 2020
 
 #### Today's Progress
