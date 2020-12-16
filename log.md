@@ -2,6 +2,33 @@
 
 `Write Record Descending date order`
 
+## Day 42: Dec 16, 2020
+
+#### Today's Progress
+
+Learn Scala Puzzles
+
+- Puzzle 13
+	- Refer self by self
+
+Learn Design patterns by using JavaScript codes.
+
+- 2-3
+	- Revealing Module Pattern	
+
+#### Thoughts
+
+can Learned deeply by writing codes and execute its codes. Both are necessery, the one of both is not enough.
+
+#### Link to work
+
+- [PR: Learned the reason why defining value of self-reference should avoid](https://github.com/kk0917/scala-puzzlers/pull/16)
+- [PR: Refactored Revealing Module Pattern and deepen learned](https://github.com/kk0917/javascript-design-patterns/pull/35)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201216.png)
+
 ## Day 41: Dec 15, 2020
 
 #### Today's Progress
