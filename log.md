@@ -2,6 +2,27 @@
 
 `Write Record Descending date order`
 
+## Day 43: Dec 17, 2020
+
+#### Today's Progress
+
+Learn Design Patterns by using JavaScript codes.
+
+- 2-4
+	- Singleton Pattern	
+
+#### Thoughts
+
+I often forget constructor functions...
+
+#### Link to work
+
+- [PR: Refactored Revealing Module Pattern and deepen learned](https://github.com/kk0917/javascript-design-patterns/pull/35)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201217.png)
+
 ## Day 42: Dec 16, 2020
 
 #### Today's Progress
