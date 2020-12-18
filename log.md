@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 44: Dec 18, 2020
+
+#### Today's Progress
+
+Prepare a new repository to implement the FB-CAPI.
+
+#### Thoughts
+
+Let's start a new journey to node.js world!
+
+#### Link to work
+
+- [Repo: fb-capi-node](https://github.com/kk9017/fbcapi_js)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201218.png)
+
 ## Day 43: Dec 17, 2020
 
 #### Today's Progress
