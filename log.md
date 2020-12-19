@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 45: Dec 19, 2020
+
+#### Today's Progress
+
+Create dev env by dockerfile.
+
+#### Thoughts
+
+I'm used to make dev env by dockerfile, so don't worry about this task.
+
+#### Link to work
+
+- [commit: create dockerfile](https://github.com/kk9017/fbcapi_js/commit/24724c7cbdcf5bb3f6ddf50dee4bb8f94778b98e)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201219.png)
+
 ## Day 44: Dec 18, 2020
 
 #### Today's Progress
