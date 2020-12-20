@@ -2,6 +2,26 @@
 
 `Write Record Descending date order`
 
+## Day 46: Dec 20, 2020
+
+#### Today's Progress
+
+Scala Puzzle
+
+- learned different working of return keyword between enclosing method(def) and enclosing block(if etc..).
+
+#### Thoughts
+
+I'll keep trying to be conscious the difference between enclosing methods and enclosing block.
+
+#### Link to work
+
+- [PR: l](https://github.com/kk0917/scala-puzzlers/pull/17)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201220.png)
+
 ## Day 45: Dec 19, 2020
 
 #### Today's Progress
