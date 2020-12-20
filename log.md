@@ -2,6 +2,24 @@
 
 `Write Record Descending date order`
 
+## Day 47: Dec 21, 2020
+
+#### Today's Progress
+
+Writing Deno samples code of Official Manual.
+
+#### Thoughts
+
+I've written Deno's codes. It's fun! 
+
+#### Link to work
+
+- [New Repo: ](https://github.com/kk0917/deno-samples)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201221.png)
+
 ## Day 46: Dec 20, 2020
 
 #### Today's Progress
