@@ -2,6 +2,29 @@
 
 `Write Record Descending date order`
 
+## Day 48: Dec 22, 2020
+
+#### Today's Progress
+
+Writing Deno samples code of Official Manual.
+
+[Examples](https://deno.land/manual@v1.6.1/examples)
+
+#### Thoughts
+
+I've written JS codes of Node env, by a new prj of my job. If it is on time, I'll overwrite to Deno env.
+
+#### Link to work
+
+- [Commit: Example 6.1 Hello world](https://github.com/kk0917/deno-samples/commit/9e8088b528aa1cf39bfa016d93471d5b73b1b3ac)
+- [Commit: Example 6.2 Import and export modules](https://github.com/kk0917/deno-samples/commit/44d385808752657dd05731dc3212ada32ad0b40c)
+- [Commit: Example 6.3 Manage dependencies](https://github.com/kk0917/deno-samples/commit/c601a9db34fc1237f16e861b01ac7a36dd7bc335)
+- [Commit: Example 6.4 Fetch data](https://github.com/kk0917/deno-samples/commit/bb2831581cd38b2666e3e54b2d08f0860580c4f7)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201222.png)
+
 ## Day 47: Dec 21, 2020
 
 #### Today's Progress
@@ -10,7 +33,7 @@ Writing Deno samples code of Official Manual.
 
 #### Thoughts
 
-I've written Deno's codes. It's fun! 
+I've written Deno's codes. It's fun!
 
 #### Link to work
 
