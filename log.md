@@ -2,6 +2,27 @@
 
 `Write Record Descending date order`
 
+## Day 51: Dec 25, 2020
+
+#### Today's Progress
+
+Writing Deno samples code of Official Manual.
+
+[Examples](https://deno.land/manual@v1.6.1/examples)
+
+#### Thoughts
+
+Deno includes an abundance of built-in function, so it is easy to use and Free from module hell like Node... I thought it today again.
+
+#### Link to work
+
+- [commit: Example 6.9 TCP echo server](https://github.com/kk0917/deno-samples/commit/c1aae29b75f85dd124cb8088e91573c07552af92)
+- [commit: 6.10 Creating a subprocess](https://github.com/kk0917/deno-samples/commit/3eebb090ec2ff37747802f20aa37683bce9e4560)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201225.png)
+
 ## Day 50: Dec 24, 2020
 
 #### Today's Progress
