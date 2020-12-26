@@ -2,6 +2,33 @@
 
 `Write Record Descending date order`
 
+## Day 52: Dec 26, 2020
+
+#### Today's Progress
+
+**Writing Deno samples code of Official Manual**
+
+[Examples](https://deno.land/manual@v1.6.1/examples)
+
+**Create new repository**
+
+This repo serves the feature for Facebook's Conversion API. It can send the Fb's eventID and pixelID from gateway(API server) to Fb's server for measuring the Fb's Ads effectiveness accurately.
+
+[Facebook Developer official document](https://developers.facebook.com/docs/marketing-api/conversions-api)
+
+#### Thoughts
+
+Now I'm into using Deno(Event Driven's JavaScript Environment), so I'm spending less time writing Scala. I like both.
+
+#### Link to work
+
+- [commit: 6.10 Creating a subprocess](https://github.com/kk0917/deno-samples/commit/3eebb090ec2ff37747802f20aa37683bce9e4560)
+- [Repo: fb_conversion_api](https://github.com/kk0917/fb_conversion_api)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201226.png)
+
 ## Day 51: Dec 25, 2020
 
 #### Today's Progress
