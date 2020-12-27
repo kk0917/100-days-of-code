@@ -2,6 +2,26 @@
 
 `Write Record Descending date order`
 
+## Day 53: Dec 27, 2020
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+create base impl converting Node to Deno.
+
+#### Thoughts
+
+Deno has no XMLHttpRequest object. So the choice is only one that using fetch(Built-in function) instead of it
+
+#### Link to work
+
+- [PR: feat: create Fb's eventID or pixelID sending feature](https://github.com/kk0917/fb_conversion_api/pull/1)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201227.png)
+
 ## Day 52: Dec 26, 2020
 
 #### Today's Progress
