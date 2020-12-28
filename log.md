@@ -2,6 +2,26 @@
 
 `Write Record Descending date order`
 
+## Day 54: Dec 28, 2020
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+Try getting the cookie info that web browser has.
+
+#### Thoughts
+
+Deno runtime env does not have how to access the cookie info on web browser??
+
+#### Link to work
+
+- [PR: feat: create Fb's eventID or pixelID sending feature](https://github.com/kk0917/fb_conversion_api/pull/2)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201227.png)
+
 ## Day 53: Dec 27, 2020
 
 #### Today's Progress
