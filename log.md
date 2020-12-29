@@ -2,6 +2,26 @@
 
 `Write Record Descending date order`
 
+## Day 55: Dec 29, 2020
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+fix ci settings and add jobs
+
+#### Thoughts
+
+Adjusted CI setting files where CI is failing, and add CI jobs for lint and format.
+
+#### Link to work
+
+- [PR: refactor: Refactor and adds GitHub actions jobs](https://github.com/kk0917/fb_conversion_api/pull/4)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201229.png)
+
 ## Day 54: Dec 28, 2020
 
 #### Today's Progress
@@ -20,7 +40,7 @@ Deno runtime env does not have how to access the cookie info on web browser??
 
 #### Statistics - WakaTime
 
-![WakaTime](images/wakatime_20201227.png)
+![WakaTime](images/wakatime_20201228.png)
 
 ## Day 53: Dec 27, 2020
 
