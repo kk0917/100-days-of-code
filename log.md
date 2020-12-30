@@ -2,6 +2,26 @@
 
 `Write Record Descending date order`
 
+## Day 56: Dec 30, 2020
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+Thinking the way to fetch target cookie value all day...
+
+#### Thoughts
+
+Exactly adding comment. it will be the last day of 2020, I'll solve this probrem definitely!
+
+#### Link to work
+
+- [PR: docs: think the way to fetch the exist cookie value](https://github.com/kk0917/fb_conversion_api/pull/5)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201230.png)
+
 ## Day 55: Dec 29, 2020
 
 #### Today's Progress
