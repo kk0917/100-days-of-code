@@ -2,6 +2,33 @@
 
 `Write Record Descending date order`
 
+## Day 57: Dec 31, 2020
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+No progress
+
+**Re: adsearch.tokyo**
+
+Renewal [adsearch.tokyo](https://github.com/kk0917/adsearch.tokyo). Convert writing PHP lang to Scala lang, Scala.js.
+
+- Create repository
+- Add CI of GitHub Actions, add issue template.
+
+#### Thoughts
+
+It's last day of 2020! My development closed. Have a great new year!
+
+#### Link to work
+
+- [Repo: re-adsearch-tokyo](https://github.com/kk0917/re_adsearch_tokyo)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20201231.png)
+
 ## Day 56: Dec 30, 2020
 
 #### Today's Progress
