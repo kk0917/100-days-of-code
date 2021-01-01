@@ -2,6 +2,36 @@
 
 `Write Record Descending date order`
 
+## Day 58: Jan 1, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+No progress
+
+**Re: adsearch.tokyo**
+
+Update config and ci of GitHub Actions
+
+- Create repository
+- Add CI of GitHub Actions, add issue template.
+
+#### Thoughts
+
+A Happy new year! 
+
+I've done "kakizome" that is the Japanese traditional First Writing of the year every year.
+
+#### Link to work
+
+- [PR: chore: chore: relpace files and update README](https://github.com/kk0917/re_adsearch_tokyo/pull/1)
+- [PR: chore: fix github actions](https://github.com/kk0917/re_adsearch_tokyo/pull/2)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210101.png)
+
 ## Day 57: Dec 31, 2020
 
 #### Today's Progress
