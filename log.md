@@ -2,6 +2,30 @@
 
 `Write Record Descending date order`
 
+## Day 59: Jan 2, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+No progress
+
+**Re: adsearch.tokyo**
+
+Add "Slick" ORM.
+
+#### Thoughts
+
+I spent times to read documentation...
+
+#### Link to work
+
+- [PR: feat: add "Slick" library](https://github.com/kk0917/re_adsearch_tokyo/pull/7)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210102.png)
+
 ## Day 58: Jan 1, 2021
 
 #### Today's Progress
