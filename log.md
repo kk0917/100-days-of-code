@@ -2,6 +2,35 @@
 
 `Write Record Descending date order`
 
+## Day 60: Jan 3, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+No progress
+
+**Re: adsearch.tokyo**
+
+Verify "Slick" ORM.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+Learn puzzle 14.
+
+#### Thoughts
+
+I spent times to read documentation of Slick-related again...
+
+#### Link to work
+
+- [PR: feat: add "Slick" library](https://github.com/kk0917/re_adsearch_tokyo/pull/7)
+- [PR: chore: add sample codes and write the comments of summery](https://github.com/kk0917/scala-puzzlers/pull/18)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210103.png)
+
 ## Day 59: Jan 2, 2021
 
 #### Today's Progress
