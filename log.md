@@ -2,6 +2,34 @@
 
 `Write Record Descending date order`
 
+## Day 61: Jan 4, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+No progress
+
+**Re: adsearch.tokyo**
+
+No progress
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+Learn puzzle 15.
+
+#### Thoughts
+
+_ (underscore) is the one I had trouble understanding while learning Scala. But, it's easy for me now to use, perhaps...
+
+#### Link to work
+
+- [PR: chore: add sample codes](https://github.com/kk0917/scala-puzzlers/pull/20)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210104.png)
+
 ## Day 60: Jan 3, 2021
 
 #### Today's Progress
