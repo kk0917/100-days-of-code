@@ -2,6 +2,34 @@
 
 `Write Record Descending date order`
 
+## Day 62: Jan 5, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+No progress
+
+**Re: adsearch.tokyo**
+
+No progress
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+Learn puzzle 16.
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+- [PR: chore: add sample codes](https://github.com/kk0917/scala-puzzlers/pull/21)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210105.png)
+
 ## Day 61: Jan 4, 2021
 
 #### Today's Progress
