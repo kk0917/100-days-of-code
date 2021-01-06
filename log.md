@@ -2,6 +2,35 @@
 
 `Write Record Descending date order`
 
+## Day 63: Jan 6, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+create gateway feature on Google Cloud Functions
+
+**Re: adsearch.tokyo**
+
+No progress
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+No progress.
+
+#### Thoughts
+
+- Fb Conversion API
+	- Thinking the way to fetch target cookie's value all day...
+
+#### Link to work
+
+- [PR: feat: create gateway on cloud functions sending ID to fb server](https://github.com/kk0917/fb_conversion_api/pull/7)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210106.png)
+
 ## Day 62: Jan 5, 2021
 
 #### Today's Progress
