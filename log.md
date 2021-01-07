@@ -1,6 +1,36 @@
 # 1000 ~~100~~ Days Of Code - Log
 
 `Write Record Descending date order`
+https://github.com/kk0917/scala-puzzlers/pull/22
+
+## Day 64: Jan 7, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+No progress.
+
+**Re: adsearch.tokyo**
+
+No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+Learn the concept of foldLeft and foldRight functions.
+
+#### Thoughts
+
+- Scala Puzzle book
+	- I understood the concept and the usage, but I can't think of where it uses.. I need more learning time.
+
+#### Link to work
+
+- [PR: add sample](https://github.com/kk0917/scala-puzzlers/pull/22)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210107.png)
 
 ## Day 63: Jan 6, 2021
 
