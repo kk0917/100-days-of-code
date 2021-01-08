@@ -1,7 +1,39 @@
 # 1000 ~~100~~ Days Of Code - Log
 
 `Write Record Descending date order`
-https://github.com/kk0917/scala-puzzlers/pull/22
+
+## Day 65: Jan 8, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+No progress.
+
+**Re: adsearch.tokyo**
+
+No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+No progress.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+Refactored Singleton pattern's codes and Deepen learned.
+
+#### Thoughts
+
+- JavaScript Design Patterns
+	- You must careful to use Singleton pattern. That codes may be tight coupling. Always be loose coupling.**
+
+#### Link to work
+
+- [PR: refactor: refactored codes and Deepen learned](https://github.com/kk0917/javascript-design-patterns/pull/39)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210108.png)
 
 ## Day 64: Jan 7, 2021
 
