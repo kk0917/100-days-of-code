@@ -2,6 +2,39 @@
 
 `Write Record Descending date order`
 
+## Day 66: Jan 9, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+No progress.
+
+**Re: adsearch.tokyo**
+
+No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+No progress.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+Refactored Observer pattern's codes and Deepen learned.
+
+#### Thoughts
+
+- JavaScript Design Patterns
+	- Observer pattern includes 4 related object. they're "Subject", "Observer", "Concreate Subject", "Concreat Observer". must make sure roles and usages of all of them. 
+
+#### Link to work
+
+- [PR: refactor: refactored codes and Deepen learned](https://github.com/kk0917/javascript-design-patterns/pull/39)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210109.png)
+
 ## Day 65: Jan 8, 2021
 
 #### Today's Progress
