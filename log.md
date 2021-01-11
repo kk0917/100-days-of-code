@@ -2,6 +2,42 @@
 
 `Write Record Descending date order`
 
+## Day 68: Jan 11, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+No progress.
+
+**Re: adsearch.tokyo**
+
+No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+Learn whether if implicit arguments part-applied of function is valid or not.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+refactored codes and Deepen learned
+
+#### Thoughts
+
+- Scala Puzzle Book
+	- It's so difficult for me to understand the puzzle. In the first place, where is there it to use? Part-applied function has never seen in my programmer's life.
+- JavaScript Design Patterns
+	- I've understand it, but doesn't master. It's big different between knowing and using.
+
+#### Link to work
+
+- [PR: add sample](https://github.com/kk0917/scala-puzzlers/pull/23)
+- [PR: refactor: refactored codes and Deepen learned](https://github.com/kk0917/javascript-design-patterns/pull/40)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210111.png)
+
 ## Day 67: Jan 10, 2021
 
 #### Today's Progress
