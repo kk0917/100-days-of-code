@@ -2,6 +2,39 @@
 
 `Write Record Descending date order`
 
+## Day 71: Jan 14, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+* No progress.
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* Learn overload methods
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+- Scala Puzzle book
+	- In the case by magnet pattern, multipule overload methods can convert one method and implicit type conversion according to the combination of the argument's type supported it.
+
+#### Link to work
+
+- [PR: add sample](https://github.com/kk0917/scala-puzzlers/pull/26)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210114.png)
+
 ## Day 70: Jan 13, 2021
 
 #### Today's Progress
