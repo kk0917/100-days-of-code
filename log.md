@@ -2,6 +2,39 @@
 
 `Write Record Descending date order`
 
+## Day 72: Jan 15, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+* Create gateway based on cloud functions
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* Node progress.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+- so tired...
+
+
+#### Link to work
+
+- [PR: add sample](https://github.com/kk0917/scala-puzzlers/pull/26)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210115.png)
+
 ## Day 71: Jan 14, 2021
 
 #### Today's Progress
