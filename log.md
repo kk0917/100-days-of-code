@@ -2,6 +2,41 @@
 
 `Write Record Descending date order`
 
+## Day 74: Jan 17, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+* Refactored JS codes for readability.
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* Node progress.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+**Fb Conversion API**
+
+I'm having lots of fun when refactoring codes.
+
+
+#### Link to work
+
+- [commit: refactor: minor update](https://github.com/kk0917/fb_conversion_api/commit/6ff8b31fe427f5786c0e49d5063f55fe7d620185)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210117.png)
+
 ## Day 73: Jan 16, 2021
 
 #### Today's Progress
