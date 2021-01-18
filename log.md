@@ -2,6 +2,40 @@
 
 `Write Record Descending date order`
 
+## Day 75: Jan 18, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+* Created the gateway feature by TypeScript converted JavaScript
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* Node progress.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+**Fb Conversion API**
+
+I've converted the JS code to TypeScript codes. 
+
+#### Link to work
+
+- [commit: feat: created gateway by TypeScript](https://github.com/kk0917/fb_conversion_api/commit/9de1b6e1034338bd0739ae5625de9b68a0970072)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210118.png)
+
 ## Day 74: Jan 17, 2021
 
 #### Today's Progress
