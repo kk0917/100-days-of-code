@@ -2,6 +2,41 @@
 
 `Write Record Descending date order`
 
+## Day 76: Jan 19, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* Learn about the Vulnerable of  the codes depended the order of arguments.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+**Fb Conversion API**
+
+* No progress
+
+#### Link to work
+
+- [commit: add sample - Puzzle 18](https://github.com/kk0917/scala-puzzlers/commit/62d191c10eaff9931b8a14618438e5498ae63b47)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210119.png)
+
+
 ## Day 75: Jan 18, 2021
 
 #### Today's Progress
