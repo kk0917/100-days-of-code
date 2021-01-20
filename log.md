@@ -2,6 +2,40 @@
 
 `Write Record Descending date order`
 
+## Day 77: Jan 20, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+* Create gateway codes by TS.
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+Fb Conversion API:
+
+* It's hard to make progress. I have to be patient and persistent.
+
+#### Link to work
+
+- [Repo: (not commit on the current branch yet..)](https://github.com/kk0917/fb_conversion_api/tree/develop)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210120.png)
+
 ## Day 76: Jan 19, 2021
 
 #### Today's Progress
