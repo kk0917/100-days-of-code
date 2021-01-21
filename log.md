@@ -2,6 +2,44 @@
 
 `Write Record Descending date order`
 
+## Day 78: Jan 21, 2021
+
+#### Today's Progress
+
+**Localhost Deno**
+
+I created local server boot feature by using Deno and Shell Script.
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+Localhost Deno:
+
+* I created the feature like putting you to sleep lol, but I satified it.
+
+#### Link to work
+
+- [Repo: localhost_deno](https://github.com/kk0917/localhost_deno)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210121.png)
+
 ## Day 77: Jan 20, 2021
 
 #### Today's Progress
