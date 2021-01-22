@@ -2,6 +2,40 @@
 
 `Write Record Descending date order`
 
+## Day 79: Jan 22, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* Learn about the important point when using named arguments and default arguments.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+Scala Puzzle book
+
+* I learned a lot from this puzzle.
+
+#### Link to work
+
+- [PR: add sample]https://github.com/kk0917/scala-puzzlers/pull/29)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210122.png)
+
 ## Day 78: Jan 21, 2021
 
 #### Today's Progress
