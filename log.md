@@ -2,6 +2,41 @@
 
 `Write Record Descending date order`
 
+## Day 80: Jan 23, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* refactor: convert JS codes to TS codes
+
+#### Thoughts
+
+JavaScript Design Patterns:
+
+I've Learning JavaScript deeply by converting JS codes to TS codes and make it cleary JS lang Where it was ambiguous.
+
+#### Link to work
+
+- [PR: refactor: convert JS codes to TS codes](https://github.com/kk0917/javascript-design-patterns/pull/41)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210123.png)
+
+
 ## Day 79: Jan 22, 2021
 
 #### Today's Progress
