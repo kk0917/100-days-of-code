@@ -2,6 +2,40 @@
 
 `Write Record Descending date order`
 
+## Day 81: Jan 24, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* learn: the better way to use Regex Type.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+Scala Puzzle book:
+
+...
+
+#### Link to work
+
+- [PR: learn: the better way to use Regex Type](https://github.com/kk0917/scala-puzzlers/pull/30)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210124.png)
+
 ## Day 80: Jan 23, 2021
 
 #### Today's Progress
