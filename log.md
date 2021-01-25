@@ -2,6 +2,40 @@
 
 `Write Record Descending date order`
 
+## Day 82: Jan 25, 2021
+
+#### Today's Progress
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* learn incrementally String Builder that Scala serve
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+Scala Puzzle book:
+
+Look push codes! By Scala, .(dot) doesn't need between calling a method to the instance, and arguments too. Scala is so deep...
+
+#### Link to work
+
+- [PR: learn: String Builder incrementally in Scala lang](https://github.com/kk0917/scala-puzzlers/pull/31)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210125.png)
+
 ## Day 81: Jan 24, 2021
 
 #### Today's Progress
