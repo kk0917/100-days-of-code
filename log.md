@@ -2,6 +2,44 @@
 
 `Write Record Descending date order`
 
+## Day 84: Jan 27, 2021
+
+#### Today's Progress
+
+**Box Search Apps Script**
+
+* Create new Repo to pass the Box search result sended from Google Forms
+
+**Fb Conversion API**
+
+* feat: create js codes of gateway feature based on cloud functions
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* learn the different of scala's map and java.map
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+I was busy today, so I have no particular impression.
+
+#### Link to work
+
+- [repo: box search apps script](https://github.com/kk0917/box_search_apps_script)
+- [pr: feat: create js codes of gateway feature based on cloud functions](https://github.com/kk0917/fb_conversion_api/pull/14)
+- [pr: learn the different of scala's map and java.map](https://github.com/kk0917/scala-puzzlers/pull/33)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210127.png)
+
 ## Day 83: Jan 26, 2021
 
 #### Today's Progress
