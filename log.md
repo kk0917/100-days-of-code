@@ -2,6 +2,43 @@
 
 `Write Record Descending date order`
 
+## Day 85: Jan 28, 2021
+
+#### Today's Progress
+
+**Box Search Apps Script**
+
+* Created search feature by using Google Apps Script.
+
+**Fb Conversion API**
+
+* No progress.
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* Converted JS codes to TS codes.
+
+#### Thoughts
+
+I can't understand about this clause of TS yet. I'm mastering it of JS.
+
+#### Link to work
+
+- [PR: feat: created search feature](https://github.com/kk0917/box_search_apps_script/pull/1)
+- [PR: refactor: converted js codes to ts codes](https://github.com/kk0917/fb_conversion_api/pull/14)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210128.png)
+
 ## Day 84: Jan 27, 2021
 
 #### Today's Progress
