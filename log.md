@@ -2,6 +2,49 @@
 
 `Write Record Descending date order`
 
+## Day 87: Jan 30, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* No progress
+
+**Node Template**
+
+* Added new actions and minor fix.
+
+**Fb Conversion API**
+
+* No progress.
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+Node Template:
+
+My CI are not enough. The many errors occures in GitHub Actions, so I've continued fixing also after day tomorrow.
+
+
+#### Link to work
+
+- [PR: feat: add github actions ](https://github.com/kk0917/node_template/pull/1)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210130.png)
+
 ## Day 86: Jan 29, 2021
 
 #### Today's Progress
