@@ -2,6 +2,49 @@
 
 `Write Record Descending date order`
 
+## Day 89: Feb 1, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* fixed setting dev server boot command
+
+**Node Template**
+
+* fixed setting dev server boot command
+
+**Fb Conversion API**
+
+* No progress.
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+I'd been swamped with setting tasks, so I haven't made much progress on the search Interface...
+
+#### Link to work
+
+- [PR: feat: add GitHub workflows](https://github.com/kk0917/node_template/pull/2)
+- [PR: fix: added the missing modules and the directories](https://github.com/kk0917/node_template/pull/4)
+- [PR: fix: error handling for not boot dev server command](https://github.com/kk0917/node_template/pull/5)
+- [PR: fix dev server boot command error](https://github.com/kk0917/node_template/pull/6)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210201.png)
+
 ## Day 88: Jan 31, 2021
 
 #### Today's Progress
