@@ -2,6 +2,47 @@
 
 `Write Record Descending date order`
 
+## Day 90: Feb 2, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* Add css loading modules
+
+**Node Template**
+
+* Add css loading modules
+
+**Fb Conversion API**
+
+* No progress.
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* Converted JS codes to TS codes.
+
+#### Thoughts
+
+I'd been swamped with setting tasks, so I haven't made much progress on the search Interface...
+
+#### Link to work
+
+- [PR: feat: add css loading modules](https://github.com/kk0917/box_search_form/pull/2)
+- [PR: refactor: converted js codes to ts codes](https://github.com/kk0917/javascript-design-patterns/pull/43)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210202.png)
+
 ## Day 89: Feb 1, 2021
 
 #### Today's Progress
