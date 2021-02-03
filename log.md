@@ -2,6 +2,47 @@
 
 `Write Record Descending date order`
 
+## Day 91: Feb 3, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* Created interface by hard coding temporarily.
+
+**Node Template**
+
+* Add css loading modules
+
+**Fb Conversion API**
+
+* No progress.
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* Converted JS codes to TS codes.
+
+#### Thoughts
+
+I had excited time writing pure JavaScript codes for the first time in a while. Frontend development can see My writing codes move in the process of implementation, so it's fun!!
+
+#### Link to work
+
+- [PR: feat: created interface by hard coding temporarily](https://github.com/kk0917/box_search_form/pull/3)
+- [PR: refactor: converted JS codes to TS codes](https://github.com/kk0917/javascript-design-patterns/pull/44)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210203.png)
+
 ## Day 90: Feb 2, 2021
 
 #### Today's Progress
