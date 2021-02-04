@@ -2,6 +2,49 @@
 
 `Write Record Descending date order`
 
+## Day 92: Feb 4, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* Updated web interface by hard coding temporarily.
+
+**Node Template**
+
+* No update.
+
+**Fb Conversion API**
+
+* No progress.
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* Learn ScalaMap and Java it.
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+I felt very early today, so I don't remember every single thing today.. 
+
+All engineers on the planet, good night and have a nice dream:)
+
+#### Link to work
+
+- [PR: feat: updated web interface](https://github.com/kk0917/box_search_form/pull/4)
+- [PR: learn: scala map and java it](https://github.com/kk0917/scala-puzzlers/pull/34)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210204.png)
+
 ## Day 91: Feb 3, 2021
 
 #### Today's Progress
