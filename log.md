@@ -2,6 +2,46 @@
 
 `Write Record Descending date order`
 
+## Day 93: Feb 5, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* Updated web interface by hard coding temporarily.
+
+**Node Template**
+
+* No update.
+
+**Fb Conversion API**
+
+* No progress.
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress.
+
+#### Thoughts
+
+I launched a web tools after a long time. It was confirmed that it was operating normally, so that's a relief. 
+
+#### Link to work
+
+- [PR: feat: updated web interface by hard coding Temporarily](https://github.com/kk0917/box_search_form/pull/4)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210205.png)
+
 ## Day 92: Feb 4, 2021
 
 #### Today's Progress
