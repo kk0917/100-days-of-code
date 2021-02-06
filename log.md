@@ -2,6 +2,46 @@
 
 `Write Record Descending date order`
 
+## Day 94: Feb 6, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* WIP: Add the modal window for search history's list.
+
+**Node Template**
+
+* No update.
+
+**Fb Conversion API**
+
+* No progress.
+
+**Re: adsearch.tokyo**
+
+* No progress.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* Converted JS codes to TS codes of Prototype pattern
+
+#### Thoughts
+
+I noticed the mistake of my choice. Don't be fooled by lightweight CSS framework. You should use Bootstrap. it is safer, no more no less..
+
+#### Link to work
+
+- [WIP: not commit and push]()
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210206.png)
+
 ## Day 93: Feb 5, 2021
 
 #### Today's Progress
