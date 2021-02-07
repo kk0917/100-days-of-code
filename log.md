@@ -2,6 +2,46 @@
 
 `Write Record Descending date order`
 
+## Day 95: Feb 7, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* No progress
+
+**Node Template**
+
+* No update.
+
+**Fb Conversion API**
+
+* No progress.
+
+**Re: adsearch.tokyo**
+
+* Debug build error...
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* Converted JS codes to TS codes of Prototype pattern
+
+#### Thoughts
+
+I tried implementing my private project after a long time with excitement.., but the build error occured and I have debugged work. 
+
+#### Link to work
+
+- [WIP: not commit and push]()
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210207.png)
+
 ## Day 94: Feb 6, 2021
 
 #### Today's Progress
