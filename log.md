@@ -2,6 +2,46 @@
 
 `Write Record Descending date order`
 
+## Day 96: Feb 8, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* adds search conditions and build query parameters
+
+**Node Template**
+
+* No update.
+
+**Fb Conversion API**
+
+* Update code style to airbnb it.
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* Learn Command Pattern.
+
+#### Thoughts
+
+I spent time on updating HTML codes, so I'm so unhappy day..
+
+#### Link to work
+
+- [WIP: not commit and push]()
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210208.png)
+
 ## Day 95: Feb 7, 2021
 
 #### Today's Progress
