@@ -2,6 +2,46 @@
 
 `Write Record Descending date order`
 
+## Day 98: Feb 10, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* added search history list into modal window
+
+**Node Template**
+
+* No update.
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progres
+
+#### Thoughts
+
+There is no time..
+
+#### Link to work
+
+- [feat: added search conditions history](https://github.com/kk0917/box_search_form/pull/6)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210210.png)
+
 ## Day 97: Feb 9, 2021
 
 #### Today's Progress
