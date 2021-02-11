@@ -2,6 +2,46 @@
 
 `Write Record Descending date order`
 
+## Day 99: Feb 11, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* WIP: feat: added setting the previous search conditions to current interface feature
+
+**Node Template**
+
+* No update.
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progres
+
+#### Thoughts
+
+I've been trying to store the previous search conditions to local storage of client browser for been persistent the conditions. local storage is just very simple conbination of key and value, so I'm worried about what the data structure is better.
+
+#### Link to work
+
+- [WIP: feat: store search condition's history to local storage of browser](https://github.com/kk0917/box_search_form/pull/7)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210211.png)
+
 ## Day 98: Feb 10, 2021
 
 #### Today's Progress
