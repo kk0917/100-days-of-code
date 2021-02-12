@@ -2,6 +2,46 @@
 
 `Write Record Descending date order`
 
+## Day 100: Feb 12, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* WIP: refactor: replace the search conditions managed by array list to object with states
+
+**Node Template**
+
+* No update.
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progres
+
+#### Thoughts
+
+By changing the search conditions managed by array type to object type, the code becomes clear and easy to maintain. But it needs to change fundamentally, so it is not easy.
+
+#### Link to work
+
+- [refactor: replace the search conditions managed by array list to object with states](https://github.com/kk0917/box_search_form/pull/9)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210212.png)
+
 ## Day 99: Feb 11, 2021
 
 #### Today's Progress
