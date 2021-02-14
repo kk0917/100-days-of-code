@@ -2,6 +2,47 @@
 
 `Write Record Descending date order`
 
+## Day 102: Feb 14, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* No progress
+
+**Node Template**
+
+* No update.
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* chore: added settings file in server structure.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progres
+
+#### Thoughts
+
+I spent many times to sync how local dev environment connects the docker container, so there was no time coding..
+
+#### Link to work
+
+- Re: adsearch.tokyo
+	- [chore: added settings file in server structure](https://github.com/kk0917/re_adsearch_tokyo/pull/8)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210214.png)
+
 ## Day 101: Feb 13, 2021
 
 #### Today's Progress
