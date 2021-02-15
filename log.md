@@ -2,6 +2,47 @@
 
 `Write Record Descending date order`
 
+## Day 103: Feb 15, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* WIP: add previous search conditions 
+
+**Node Template**
+
+* No update.
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* chore: added settings file in server structure.
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progres
+
+#### Thoughts
+
+I'm tired JS codes write..
+
+#### Link to work
+
+- Re: adsearch.tokyo
+	- [chore: added settings file in server structure](https://github.com/kk0917/re_adsearch_tokyo/pull/8)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210215.png)
+
 ## Day 102: Feb 14, 2021
 
 #### Today's Progress
