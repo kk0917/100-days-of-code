@@ -2,6 +2,47 @@
 
 `Write Record Descending date order`
 
+## Day 105: Feb 17, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* fix: debug for Exception of not deleting browser's local storage.
+
+**Node Template**
+
+* No update.
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**[Scala Puzzle book](https://www.shoeisha.co.jp/book/detail/9784798145037)**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progres
+
+#### Thoughts
+
+Today's debug task taught me an importance of design(architect). A data is not just data. it has a statement and value etc. Today's learning.
+
+#### Link to work
+
+- Box Search Form
+	- [feat: done!](https://github.com/kk0917/box_search_form/pull/11)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210217.png)
+
 ## Day 104: Feb 16, 2021
 
 #### Today's Progress
