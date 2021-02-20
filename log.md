@@ -2,6 +2,39 @@
 
 `Write Record Descending date order`
 
+## Day 108: Feb 20, 2021
+
+#### Today's Progress
+
+**Box Search Form**
+
+* No progress
+
+**Fb Conversion API**
+
+* No progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* Learn Facade Pattern today too.
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+- JavaScript Design Patterns
+	- [PR: learn facade patterns](https://github.com/kk0917/javascript-design-patterns/pull/50)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210220.png)
+
 ## Day 107: Feb 19, 2021
 
 #### Today's Progress
