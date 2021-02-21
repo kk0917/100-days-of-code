@@ -2,6 +2,41 @@
 
 `Write Record Descending date order`
 
+## Day 109: Feb 21, 2021
+
+#### Today's Progress
+
+**Re: adsearch.tokyo**
+
+* Create the base of fhe api.
+
+**Box Search Form**
+
+* No progress
+
+**Fb Conversion API**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* Learn Facade Pattern today too.
+
+#### Thoughts
+
+I was finally able to start Re: adsearch.tokyo. I'd like to proceed even little by little after tomorrow.
+
+#### Link to work
+
+- Re: adsearch.tokyo
+	- [feat: create the base of fhe api ](https://github.com/kk0917/re_adsearch_tokyo/pull/9)
+- JavaScript Design Patterns
+	- [PR: learn facade patterns](https://github.com/kk0917/javascript-design-patterns/pull/51)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210221.png)
+
 ## Day 108: Feb 20, 2021
 
 #### Today's Progress
