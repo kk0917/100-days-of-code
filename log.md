@@ -2,6 +2,39 @@
 
 `Write Record Descending date order`
 
+## Day 110: Feb 22, 2021
+
+#### Today's Progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**Box Search Form**
+
+* No progress
+
+**Fb Conversion API**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* Learn Factory Pattern of Design Patterns
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+- JavaScript Design Patterns
+	- [PR: learn: factory pattern](https://github.com/kk0917/javascript-design-patterns/pull/53)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210222.png)
+
 ## Day 109: Feb 21, 2021
 
 #### Today's Progress
