@@ -2,6 +2,43 @@
 
 `Write Record Descending date order`
 
+## Day 112: Feb 24, 2021
+
+#### Today's Progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**Box Search Form**
+
+* No progress
+
+**Fb Conversion API**
+
+* No progress
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* Learn Factory Pattern of Design Patterns(continued previous commit)
+
+**[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)**
+
+* Create new Repo.
+
+#### Thoughts
+
+New learning has begun today.
+
+#### Link to work
+
+- TDD - Test Driven Development
+	- [Repo: try_tdd](https://github.com/kk0917/try_tdd)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210224.png)
+
 ## Day 111: Feb 23, 2021
 
 #### Today's Progress
