@@ -2,6 +2,43 @@
 
 `Write Record Descending date order`
 
+## Day 114: Feb 26, 2021
+
+#### Today's Progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**Box Search Form**
+
+* No progress
+
+**Fb Conversion API**
+
+* fix due to specification changes
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress
+
+**[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)**
+
+* writing test codes of Part 3, chapter 1 with Scala. 
+
+#### Thoughts
+
+Writing test codes first is really fun! What I wanted to do for a long time. 
+
+#### Link to work
+
+- TDD - Test Driven Development
+	- [PR: feat: write test codes of part 1, chapter 1](https://github.com/kk0917/try_tdd/pull/4)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210226.png)
+
 ## Day 113: Feb 25, 2021
 
 #### Today's Progress
