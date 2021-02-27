@@ -2,6 +2,45 @@
 
 `Write Record Descending date order`
 
+## Day 115: Feb 27, 2021
+
+#### Today's Progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**Box Search Form**
+
+* No progress
+
+**Fb Conversion API**
+
+* No update
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress
+
+**[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)**
+
+* debug the errors ci (GitHub Actions)related mainly, by the way update scala temaplate
+
+#### Thoughts
+
+I spent lots of times to config the Scala's library dependencies and replaced 
+
+#### Link to work
+
+- TDD - Test Driven Development
+	- [PR: fix: changed the config of github actions](https://github.com/kk0917/try_tdd_with_scala/pull/6)
+- Scala Template
+  - [feat: updated ci actions and repolace libraries to build.sbt](https://github.com/kk0917/scala_template/pull/3)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210227.png)
+
 ## Day 114: Feb 26, 2021
 
 #### Today's Progress
