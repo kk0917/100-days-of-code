@@ -2,6 +2,49 @@
 
 `Write Record Descending date order`
 
+## Day 116: Feb 28, 2021
+
+#### Today's Progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**Box Search Form**
+
+* No progress
+
+**Fb Conversion API**
+
+* No update
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress
+
+**[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)**
+
+* Rebuild the target class and added todo comments. 
+
+**Scala Template**
+
+* added todo list and fixed CI configs
+
+#### Thoughts
+
+TDD is fun today again. I definitely decided adopting TDD with work from next prj.
+
+#### Link to work
+
+- TDD - Test Driven Development
+	- [commit: refactor: rebuild the target class and added todo comments](https://github.com/kk0917/try_tdd_with_scala/commit/def5128310766ea3a853a69fa674b67afd7ca6a4)
+- Scala Template
+	- [PR: chore: added todo list and update scalafmt config](https://github.com/kk0917/scala_template/pull/4)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210228.png)
+
 ## Day 115: Feb 27, 2021
 
 #### Today's Progress
