@@ -2,6 +2,43 @@
 
 `Write Record Descending date order`
 
+## Day 117: Mar 1, 2021
+
+#### Today's Progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**Box Search Form**
+
+* No progress
+
+**Fb Conversion API**
+
+* No update
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress
+
+**[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)**
+
+* 1.2 Learn about obvious implementation.
+
+#### Thoughts
+
+Poor progress og private development. 
+
+#### Link to work
+
+- TDD
+	- [PR: feat: added test code and delete example code](https://github.com/kk0917/try_tdd_with_scala/pull/11)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210301.png)
+
 ## Day 116: Feb 28, 2021
 
 #### Today's Progress
