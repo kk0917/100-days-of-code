@@ -2,6 +2,46 @@
 
 `Write Record Descending date order`
 
+## Day 119: Mar 3, 2021
+
+#### Today's Progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**Box Search Form**
+
+* No progress
+
+**Fb Conversion API**
+
+* No update
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* 2.1 Refactoring
+
+**[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)**
+
+* 1.2 Updated the unit tests and target test's class
+* 1.3 Practice the equality for all
+
+#### Thoughts
+
+Poor progress of private development today again..
+
+#### Link to work
+
+- JavaScript Design Patterns
+	- [fix: minor fix](https://github.com/kk0917/javascript-design-patterns/pull/55)
+- TDD
+	- [PR: feat: updated test codes](https://github.com/kk0917/try_tdd_with_scala/pull/13)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210303.png)
+
 ## Day 118: Mar 2, 2021
 
 #### Today's Progress
