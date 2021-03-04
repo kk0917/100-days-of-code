@@ -2,6 +2,45 @@
 
 `Write Record Descending date order`
 
+## Day 120: Mar 4, 2021
+
+#### Today's Progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**Box Search Form**
+
+* No progress
+
+**Fb Conversion API**
+
+* No update
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* 2.1 Refactoring
+
+**[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)**
+
+* 1.4 Test talked intention.
+
+#### Thoughts
+
+I can't still write test codes of Equivalence. I've find a right way to confirm the Equivalence of Scala lang.
+
+#### Link to work
+
+- Fb Conversion API
+	- [feat: create the gateway feature based on cloud functions](https://github.com/kk0917/fb_conversion_api/pull/15)
+- TDD
+	- [No commits]()
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210304.png)
+
 ## Day 119: Mar 3, 2021
 
 #### Today's Progress
