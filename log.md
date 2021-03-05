@@ -2,6 +2,56 @@
 
 `Write Record Descending date order`
 
+## Day 121: Mar 5, 2021
+
+#### Today's Progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**Box Search Form**
+
+* Verify which we use css frameworks for designing the web search interface.
+
+**Fb Conversion API**
+
+* No update
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* fix: minor fix
+* start using node runtime environment
+
+**Try TDD with Scala - [TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)**
+
+* WIP: 1.5 When you dare to break the principle 
+
+#### Thoughts
+
+Try TDD with Scala:
+
+Today's unit test practice 1.5 doubles as yesterday's review, so write the test codes is fun than yesterday. I'm satisfied when I saw the red test case changed green it.
+
+#### Link to work
+
+- Box Search Form
+	- [materialize.css](https://materializecss.com)
+		- During verification, but already make it sucks clearly
+	- [Semantic UI](https://semantic-ui.com/)
+		- Not yet.
+	- [UIkit](https://getuikit.com/)
+		- Not yet.
+- Try TDD with Scala
+	- [commit: feat: added new class's test cases](https://github.com/kk0917/try_tdd_with_scala/commit/5dc1e3fb4a062ecccf46894b94cb0713cd4e628b)
+- JavaScript Design Patterns
+	- [fix: minor fix](https://github.com/kk0917/javascript-design-patterns/pull/56)
+	- [feat: start using node and added ignore file](https://github.com/kk0917/javascript-design-patterns/pull/57)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210305.png)
+
 ## Day 120: Mar 4, 2021
 
 #### Today's Progress
