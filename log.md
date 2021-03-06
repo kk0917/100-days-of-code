@@ -2,6 +2,44 @@
 
 `Write Record Descending date order`
 
+## Day 122: Mar 6, 2021
+
+#### Today's Progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**Box Search Form**
+
+* No progress
+
+**Fb Conversion API**
+
+* No update
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress
+
+**Try TDD with Scala - [TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)**
+
+* 1.6 If you noticed that the tests is not enough
+
+#### Thoughts
+
+The above TDD book is one of them that is the easiest tech book to understand and. More than anything, I'm having a blast!!
+
+#### Link to work
+
+- Try TDD with Scala
+	- [PR: refactor: created the parent class of existed classes and mv the method that common processing.](https://github.com/kk0917/try_tdd_with_scala/pull/18)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210306.png)
+
+
 ## Day 121: Mar 5, 2021
 
 #### Today's Progress
