@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es5",   // TS converts to ECMAScript 5
+    "module": "es2015" // TS modules outputs as ES Modules
+  },
+  "include": ["*"],
+  "exclude": ["node_modules", "gateway", "**/*.spec.ts"]
+}
