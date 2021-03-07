@@ -2,6 +2,47 @@
 
 `Write Record Descending date order`
 
+## Day 123: Mar 7, 2021
+
+#### Today's Progress
+
+**Re: adsearch.tokyo**
+
+* No progress
+
+**Box Search Form**
+
+* No progress
+
+**Fb Conversion API**
+
+* No update
+
+**[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)**
+
+* No progress
+
+**Try TDD with Scala - [TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)**
+
+* 1.6 If you noticed that the tests is not enough
+
+**[NEW!] Tweet Automation of #100DaysOfCode**
+
+* create a twitter app and built a develop environment.
+
+#### Thoughts
+
+I've started an tweet automation app of this daily diary. it tweets the title, the link, and the statistics of wakatime when pushing the commits of diary. I wanna done it early and be easy to the daily task. So, I tweet today's diary by manually because the app has created yet haha.
+
+#### Link to work
+
+- Tweet Automation of #100DaysOfCode
+	- [PR: feat: add the gateway of Twitter API](https://github.com/kk0917/100-days-of-code/pull/2)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210307.png)
+
 ## Day 122: Mar 6, 2021
 
 #### Today's Progress
