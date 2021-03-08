@@ -2,6 +2,53 @@
 
 `Write Record Descending date order`
 
+## Day 124: Mar 8, 2021
+
+(minor changed log format)
+
+### Today's Progress
+
+#### Projects
+
+Re: adsearch.tokyo
+
+* No progress
+
+Box Search Form
+
+* No progress
+
+Fb Conversion API
+
+* No update
+
+Tweet Automation of #100DaysOfCode
+
+* No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+* No progress
+
+Try TDD with Scala - [TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)
+
+* 1.7 translate doubts to tests
+
+#### Thoughts
+
+TDD is fun! fun! fun! today too!
+
+#### Link to work
+
+- Try TDD with Scala
+	- [PR: feat: added test cases - 1.7 translate doubts to tests](https://github.com/kk0917/try_tdd_with_scala/pull/19)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210308.png)
+
 ## Day 123: Mar 7, 2021
 
 #### Today's Progress
