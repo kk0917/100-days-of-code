@@ -2,6 +2,57 @@
 
 `Write Record Descending date order`
 
+## Day 130: Mar 14, 2021
+
+### Today's Progress
+
+#### Projects
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Form
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+ECPF Crawler
+
+* refactor: refactored the scraping codes of my Colleague.
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+Try TDD with Scala - [TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)
+
+* Practice 1.9 adjust steps
+
+#### Thoughts
+
+I spent 9 hours for refactoring codes of other depeloper these 2 days. I had a really tough and so tired.., but I'm satisfied and didn't realize that it was already 20:30 later even though it's Sunday. 
+
+#### Link to work
+
+- ECPF Crawler
+	- [Commit: refactor: refactoring whole codes of dp scraping](https://github.com/shinji-mori/ecpf-crawler/commit/eb207035b225aa3ea9a2663f7652379a925356e6)
+- Try TDD with Scala
+	- No push. WIP.
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210314.png)
+
 ## Day 129: Mar 13, 2021
 
 ### Today's Progress
