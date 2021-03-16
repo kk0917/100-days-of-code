@@ -2,6 +2,55 @@
 
 `Write Record Descending date order`
 
+## Day 132: Mar 16, 2021
+
+### Today's Progress
+
+#### Projects
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Form
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+Try TDD with Scala - [TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)
+
+* Practice 1.9 adjust steps
+
+#### Thoughts
+
+I've finished the problems up to yesterday! But I have no time, so I'll write diary of tomorrow.
+
+#### Link to work
+
+- Try TDD with Scala
+	- [feat: impl money's concept](https://github.com/kk0917/try_tdd_with_scala/pull/26)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210316.png)
+
 ## Day 131: Mar 15, 2021
 
 ### Today's Progress
