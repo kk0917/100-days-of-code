@@ -2,6 +2,55 @@
 
 `Write Record Descending date order`
 
+## Day 134: Mar 18, 2021
+
+### Today's Progress
+
+#### Projects
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Form
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+Try TDD with Scala - [TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)
+
+* Review and add the detail of tdd cycle to readme written at the beginning of the 2nd chapter.
+
+#### Thoughts
+
+I wrote codes less. I spent many times of today to think and wrote the detail of TDD, so I've understood about TDD deeply.
+
+#### Link to work
+
+- Try TDD with Scala
+	- [branch: 1.1_temp_impl](https://github.com/kk0917/try_tdd_with_scala/tree/part.chapter/1.1_temp_impl)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210318.png)
+
 ## Day 133: Mar 17, 2021
 
 ### Today's Progress
