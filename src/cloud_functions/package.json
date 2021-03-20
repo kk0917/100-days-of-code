@@ -1,8 +1,8 @@
 {
-  "name": "tweet_automation_gateway",
+  "name": "daily_tweet_gateway",
   "version": "0.1.0",
   "description": "This scripts is tweeting the diary's detail of #100DaysOfCode feature by using github webhooks",
-  "main": "../../gateway/main.js",
+  "main": "./main.js",
   "repository": "https://github.com/kk0917/100-days-of-code",
   "author": "@kame_greenergy",
   "license": "MIT",
