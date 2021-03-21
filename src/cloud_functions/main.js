@@ -8,12 +8,16 @@
 exports.main = (req, resp) => {
   try {
 
-    console.log(JSON.stringify(req));
-
     return resp
       .status(200)
-      .send(JSON.stringify(req));
+      .send(req.body);
   } catch (e) {
     return resp.status(500).send(`Exception.. Please contact @kame_greenergy: ${e.message}`);
   }
 };
+
+const reqBody = body => {
+  return body;
+}
+
+module.exports = reqBody;
