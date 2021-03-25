@@ -2,6 +2,61 @@
 
 `Write Record Descending date order`
 
+## Day 139: Mar 25, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+Try TDD with Scala - [TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)
+
+* Review and rerwrite 1.3 trianglation
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+- Try TDD with Scala
+	- [PR: feat: impl 1.3 trianglation](https://github.com/kk0917/try_tdd_with_scala/pull/36)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210325.png)
+
+## Day ~~139~~: Mar 24, 2021
+
+### Today's Progress
+
+I don't have a memory of yeesterday..
+
 ## Day 138: Mar 23, 2021
 
 ### Today's Progress
