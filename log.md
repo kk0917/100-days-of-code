@@ -2,6 +2,67 @@
 
 `Write Record Descending date order`
 
+## Day 140: Mar 26, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+* trying to debug the probrem of deployment..
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+Try TDD with Scala - [TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)
+
+> No progress
+
+#### Thoughts
+
+Tweet Automation of #100DaysOfCode:
+
+can't deploy and don't know the cause of the error.. That codes can build, in other words there is no error. 
+
+```
+❯ gcloud functions deploy diary_tweet_gateway --region=asia-northeast1 --source .
+Deploying function (may take a while - up to 2 minutes)...⠼
+For Cloud Build Stackdriver Logs, visit: https://console.cloud.google.com/logs/viewer?project=days-of-code-306910&advancedFilter=resource.type%3Dbuild%0Aresource.labels.build_id%3Dcb04bad4-dfd7-42a1-89a0-7945a734d079%0AlogName%3Dprojects%2Fdays-of-code-306910%2Flogs%2Fcloudbuild
+Deploying function (may take a while - up to 2 minutes)...failed.
+ERROR: (gcloud.functions.deploy) OperationError: code=3, message=Function failed on loading user code. This is likely due to a bug in the user code. Error message: Error: please examine your function logs to see the error cause: https://cloud.google.com/functions/docs/monitoring/logging#viewing_logs. Additional troubleshooting documentation can be found at https://cloud.google.com/functions/docs/troubleshooting#logging. Please visit https://cloud.google.com/functions/docs/troubleshooting for in-depth troubleshooting documentation.
+```
+
+what can I do excludes the way I did?
+
+#### Link to work
+
+- Tweet Automation of #100DaysOfCode
+	- [Repo: kk0917/diary_tweet_automation](https://github.com/kk0917/diary_tweet_automation)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210326.png)
+
 ## Day 139: Mar 25, 2021
 
 ### Today's Progress
