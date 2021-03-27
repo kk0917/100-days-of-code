@@ -2,6 +2,55 @@
 
 `Write Record Descending date order`
 
+## Day 141: Mar 27, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+* trying to debug togay again..
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+Try TDD with Scala - [TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)
+
+> No progress
+
+#### Thoughts
+
+It's different how to export/import on node runtime??
+
+#### Link to work
+
+- Tweet Automation of #100DaysOfCode
+	- [feat: create diary tweet gateway](https://github.com/kk0917/diary_tweet_automation/pull/1)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210327.png)
+
 ## Day 140: Mar 26, 2021
 
 ### Today's Progress
