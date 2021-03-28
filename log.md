@@ -2,6 +2,55 @@
 
 `Write Record Descending date order`
 
+## Day 142: Mar 28, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+* Fixed errors, but few less..
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+Try TDD with Scala - [TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/)
+
+> No progress
+
+#### Thoughts
+
+I'm tired of debugging..
+
+#### Link to work
+
+- Tweet Automation of #100DaysOfCode
+	- [commit: feat: create diary tweet gateway](https://github.com/kk0917/diary_tweet_automation/commit/97449920adb4f93fd085df245036a99e27dd9f47)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210328.png)
+
 ## Day 141: Mar 27, 2021
 
 ### Today's Progress
