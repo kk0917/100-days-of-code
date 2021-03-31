@@ -2,6 +2,55 @@
 
 `Write Record Descending date order`
 
+## Day 145: Mar 31, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* Review and rewriting of 1.6 if you notice not enough tests
+
+#### Thoughts
+
+I couldn't take enough time to Learning today again.
+
+#### Link to work
+
+- Try TDD with Scala
+	- [PR: feat: impl 1.6 if you notice not enough tests](https://github.com/kk0917/try_tdd_with_scala/pull/39)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210331.png)
+
 ## Day 144: Mar 30, 2021
 
 ### Today's Progress
