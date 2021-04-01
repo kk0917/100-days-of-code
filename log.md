@@ -2,6 +2,55 @@
 
 `Write Record Descending date order`
 
+## Day 146: Apr 1, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+* Created HTML markup ans adjusts CSS style.
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> NO progress
+
+#### Thoughts
+
+I've created HTML markup after a long time. It's so boring and bothersome for me..
+
+#### Link to work
+
+- Box Search Interface
+	- [PR: feat: html markup and style adjustment](https://github.com/kk0917/box_search_form/pull/15)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210401.png)
+
 ## Day 145: Mar 31, 2021
 
 ### Today's Progress
