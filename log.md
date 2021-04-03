@@ -2,6 +2,103 @@
 
 `Write Record Descending date order`
 
+## Day 147: Apr 3, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* rewrite and rereqding 1.7 translate_doubts to tests
+
+#### Thoughts
+
+I didn't fail the same thing of yesterday again.
+
+#### Link to work
+
+- Try TDD with Scala
+	- [PR: translate_doubts to tests](https://github.com/kk0917/try_tdd_with_scala/pull/41)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210403.png)
+
+## Day ~~146~~: Apr 2, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> NO progress
+
+#### Thoughts
+
+I forgot to write this diary..
+
+#### Link to work
+
+- None
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210401.png)
+
 ## Day 146: Apr 1, 2021
 
 ### Today's Progress
