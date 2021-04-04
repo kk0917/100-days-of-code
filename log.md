@@ -2,6 +2,56 @@
 
 `Write Record Descending date order`
 
+## Day 148: Apr 4, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* rewrite and rereading 1.8(translate_doubts to tests) and 1.9(adjust steps)
+
+#### Thoughts
+
+I've finished two chapter of TDD, so I'm satisfied.
+
+#### Link to work
+
+- Try TDD with Scala
+	- [PR: feat: impl 1.8 hide implementation](https://github.com/kk0917/try_tdd_with_scala/pull/42)
+	- [PR: feat: impl 1.9 adjust steps](https://github.com/kk0917/try_tdd_with_scala/pull/43)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210404.png)
+
 ## Day 147: Apr 3, 2021
 
 ### Today's Progress
