@@ -2,6 +2,55 @@
 
 `Write Record Descending date order`
 
+## Day 150: Apr 6, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* impl 1.10 - ask tests
+
+#### Thoughts
+
+I think the most difficult thing of TDD is step5 "Do refactoring and remove the duplicates". For eliminating diff or changing it to module and library, many years of experience and wisdom are required. 
+
+#### Link to work
+
+- Try TDD with Scala
+	- [PR: feat: impl 1.10 ask tests](https://github.com/kk0917/try_tdd_with_scala/pull/45)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210406.png)
+
 ## Day 149: Apr 5, 2021
 
 ### Today's Progress
