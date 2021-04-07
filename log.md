@@ -2,6 +2,55 @@
 
 `Write Record Descending date order`
 
+## Day 151: Apr 7, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* impl 1.11 - remove when unneccesery
+
+#### Thoughts
+
+I'm so busy today, so private work progress a little.
+
+#### Link to work
+
+- Try TDD with Scala
+	- [PR: feat: impl 1.11 remove when unneccesery](https://github.com/kk0917/try_tdd_with_scala/pull/46)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210407.png)
+
 ## Day 150: Apr 6, 2021
 
 ### Today's Progress
