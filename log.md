@@ -2,6 +2,55 @@
 
 `Write Record Descending date order`
 
+## Day 152: Apr 9, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* Impl 1.12 design and metaphor
+
+#### Thoughts
+
+It's difficult to understand this chapter, so I'll go to bed and I'll think tomorrow again.
+
+#### Link to work
+
+- Try TDD with Scala
+	- [PR: feat: impl step 1-4](https://github.com/kk0917/try_tdd_with_scala/pull/47)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210409.png)
+
 ## Day ~~152~~: Apr 8, 2021
 
 forgot this diary..
