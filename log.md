@@ -2,6 +2,10 @@
 
 `Write Record Descending date order`
 
+## Day ~~152~~: Apr 8, 2021
+
+forgot this diary..
+
 ## Day 151: Apr 7, 2021
 
 ### Today's Progress
