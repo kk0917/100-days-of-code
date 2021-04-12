@@ -2,6 +2,62 @@
 
 `Write Record Descending date order`
 
+## Day 155: Apr 12, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* WIP: Impl 1.13 - tests to lead impl
+
+#### Thoughts
+
+I resolved the probrem of yesterday! 
+
+```
+Java:
+Sum sum = (Sum) result
+          ^^^^^ here
+Scala:
+val sum: Sum = result.asInstanceOf[Sum]
+```
+
+#### Link to work
+
+> No commits, no recoreds
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210412.png)
+
 ## Day 154: Apr 11, 2021
 
 ### Today's Progress
