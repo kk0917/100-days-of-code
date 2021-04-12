@@ -52,7 +52,8 @@ val sum: Sum = result.asInstanceOf[Sum]
 
 #### Link to work
 
-> No commits, no recoreds
+* Try TDD with Scala
+	* [PR: feat: impl 1.13 tests lead to impl](https://github.com/kk0917/try_tdd_with_scala/pull/50)
 
 #### Statistics - WakaTime
 
