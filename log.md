@@ -2,6 +2,56 @@
 
 `Write Record Descending date order`
 
+## Day 157: Apr 14, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+* create diary tweet gateway
+	* can't find bugs..
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* WIP: Impl 1.13 - tests to lead impl
+
+#### Thoughts
+
+The log of bugs are abstractive and ambiguous, so I'll try debugging after tomorrow..
+
+#### Link to work
+
+* Tweet Automation of #100DaysOfCode
+	* [commit: debugging](https://github.com/kk0917/diary_tweet_automation/commit/2b1a5a4a6abf62e317fdfb2e99e72ac72226ee3f)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210414.png)
+
 ## Day 156: Apr 13, 2021
 
 ### Today's Progress
