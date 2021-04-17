@@ -2,6 +2,57 @@
 
 `Write Record Descending date order`
 
+## Day 160: Apr 17, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+ECPF Crawler
+
+> No progress
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* Impl 1.12 Design and Metaphor
+
+#### Thoughts
+
+Try TDD with Scala
+
+I've known the spec deeply by rereading and rewriting this chapter, so can progress the impl smoothly.
+
+#### Link to work
+
+* Try TDD with Scala
+	* [feat: impl 1.12 design and metaphor](https://github.com/kk0917/try_tdd_with_scala/pull/54)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210417.png)
+
 ## Day 159: Apr 16, 2021
 
 ### Today's Progress
