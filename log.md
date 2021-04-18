@@ -2,6 +2,55 @@
 
 `Write Record Descending date order`
 
+## Day 161: Apr 18, 2021
+
+### Today's Progress
+
+#### Projects
+
+Diary tweet of #100DaysOfCode
+
+* Changed policy to use Java runtime instead of Node.
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* No progress
+
+#### Thoughts
+
+Diary tweet of #100DaysOfCode
+
+I lately noticed that be able to use Java runtime on Cloud Functions. It means that be able to write functions code with Scala. So, changed the policy.
+
+But Deploy doesn't work and I spent wasted time..
+
+#### Link to work
+
+* Diary tweet of #100DaysOfCode
+	* [Repo: diary_tweet_of_100daysofcode](https://github.com/kk0917/diary_tweet_of_100daysofcode)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210418.png)
+
 ## Day 160: Apr 17, 2021
 
 ### Today's Progress
