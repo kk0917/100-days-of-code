@@ -1,7 +1,53 @@
 # 1000 ~~100~~ Days Of Code - Log
 
 `Write Record Descending date order`
-feat: impl 1.13 tests lead impl
+
+## Day 165: Apr 22, 2021
+
+### Today's Progress
+
+#### Projects
+
+Diary tweet of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* impl 1.13 tests that lead impl
+
+#### Thoughts
+
+Try TDD with Scala:
+
+I haven't understood the specs cleary, today again.. But, For the time being, I've move on implements of the book continue. 
+
+#### Link to work
+
+* Try TDD with Scala
+	* [commit: feat: continue of impl 1.13 tests that lead impl](https://github.com/kk0917/try_tdd_with_scala/commit/6fcb82eca658cb2d188d25d88e99f0bf3b209ca4)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210422.png)
 
 ## Day 164: Apr 21, 2021
 
