@@ -2,6 +2,96 @@
 
 `Write Record Descending date order`
 
+## Day 167: Apr 24, 2021
+
+### Today's Progress
+
+#### Projects
+
+Diary tweet of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* Impl 1.14 learning test and regression test
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Try TDD with Scala
+	* [commit: feat: Impl 1.14 learning test and regression test](https://github.com/kk0917/try_tdd_with_scala/commit/3d7c47c8ca0315e6e1be4182b95e086782f08093)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210424.png)
+
+## Day 166: Apr 23, 2021
+
+### Today's Progress
+
+#### Projects
+
+Diary tweet of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* impl 1.13 tests that lead impl
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Try TDD with Scala
+	* [PR: feat: continue of impl 1.14 learninf tests and regression tests(https://github.com/kk0917/try_tdd_with_scala/commit/6fcb82eca658cb2d188d25d88e99f0bf3b209ca4)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210423.png)
+
 ## Day 165: Apr 22, 2021
 
 ### Today's Progress
