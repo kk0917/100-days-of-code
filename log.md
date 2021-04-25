@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 168: Apr 25, 2021
+
+### Today's Progress
+
+#### Projects
+
+Diary tweet of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* Impl 1.14 learning test and regression test
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Try TDD with Scala
+	* [commit: added methods to manage exchange rate in bank class](https://github.com/kk0917/try_tdd_with_scala/commit/1a5f88a566ff099cc57cbdb266d096d5d568b5f2)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210425.png)
+
 ## Day 167: Apr 24, 2021
 
 ### Today's Progress
