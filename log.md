@@ -2,6 +2,52 @@
 
 `Write Record Descending date order`
 
+## Day 171: Apr 28, 2021
+
+### Today's Progress
+
+#### Projects
+
+Diary tweet of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+* Add meta conditions resetting feature
+	* unchecked all conditions on gui and emptied conditions into meta data structure
+
+Fb Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Box Search Interface
+	* [commit: feat: add meta conditions resetting feature](https://github.com/kk0917/box_search_interface/commit/77719dc7a55fcfd986940d0ea34354dc39b881a2)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210428.png)
+
 ## Day 170: Apr 27, 2021
 
 ### Today's Progress
