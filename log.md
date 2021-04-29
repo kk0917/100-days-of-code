@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 172: Apr 29, 2021
+
+### Today's Progress
+
+#### Projects
+
+Diary tweet of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Fb Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* Impl 1.14 learning tests and regression tests
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Try TDD with Scala
+	* [commit: feat: impl 1.14 learning tests and regression tests](https://github.com/kk0917/try_tdd_with_scala/commit/ab478a6dfc8475edef1743a13daacc813eca351d)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210429.png)
+
 ## Day 171: Apr 28, 2021
 
 ### Today's Progress
