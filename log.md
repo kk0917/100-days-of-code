@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 173: Apr 30, 2021
+
+### Today's Progress
+
+#### Projects
+
+Diary tweet of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+* minor update of history feature
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Box Search Interface
+	* [PR: feat: add minor update of history feature](https://github.com/kk0917/box_search_interface/pull/20)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210430.png)
+
 ## Day 172: Apr 29, 2021
 
 ### Today's Progress
