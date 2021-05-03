@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 176: May 3, 2021
+
+### Today's Progress
+
+#### Projects
+
+Diary tweet of #100DaysOfCode
+
+* fixed wrong word
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Diary tweet of #100DaysOfCode
+	* [Commit: chore: minor fix](https://github.com/kk0917/diary_tweet_of_100daysofcode/commit/0555eba8c47c543ddf02a5551a55eded62c001ad)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210503.png)
+
 ## Day 175: May 2, 2021
 
 ### Today's Progress
