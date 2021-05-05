@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 178: May 5, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+* build tweets content sending to twitter api
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Diary tweet of #100DaysOfCode
+	* [Commit: feat: build tweets content sending to twitter api](https://github.com/kk0917/diary_tweet_of_100daysofcode/commit/2b3c437225440e1f2bd64e5981912d3b3dce3779)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210505.png)
+
 ## Day 177: May 4, 2021
 
 ### Today's Progress
