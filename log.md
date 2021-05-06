@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 179: May 6, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+* add dotenv module and use it
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Tweet Automation of #100DaysOfCode
+	* [PR: feat: add dotenv module](https://github.com/kk0917/box_search_interface/pull/22)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210506.png)
+
 ## Day 178: May 5, 2021
 
 ### Today's Progress
