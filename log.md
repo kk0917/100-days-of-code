@@ -2,6 +2,57 @@
 
 `Write Record Descending date order`
 
+## Day 180: May 8, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automation of #100DaysOfCode
+
+* WIP: introduce scalatest
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Tweet Automation of #100DaysOfCode
+	* [commit: feat: introduce scalatest](https://github.com/kk0917/tweet_automation_of_100daysofcode/commit/9808fe0b5d6a6567ffb140fba807d3753acb9189)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210508.png)
+
+## ~~Day 180: May 7, 2021~~
+
+I forgot writing and tweet of this diary
+
+...
+
 ## Day 179: May 6, 2021
 
 ### Today's Progress
