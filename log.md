@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 181: May 10, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+Impl 1.14
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* TDD - Test Driven Development
+	* [commit: feat: add exchange rate](https://github.com/kk0917/try_tdd_with_scala/commit/28ad861573abc8e7e5cc2bb16ac8408c1e0d6058)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210510.png)
+
 ## ~~Day 181: May 9, 2021~~
 
 I've skipped my #100DaysCode for the first time.. That was my fault, so I understand.
