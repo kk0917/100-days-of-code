@@ -2,6 +2,14 @@
 
 `Write Record Descending date order`
 
+## ~~Day 181: May 9, 2021~~
+
+I've skipped my #100DaysCode for the first time.. That was my fault, so I understand.
+
+I'll start again today!!
+
+...
+
 ## Day 180: May 8, 2021
 
 ### Today's Progress
