@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 182: May 11, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* Impl 1.15 leave it to tests and compiler 
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* TDD - Test Driven Development
+	* [PR: added test case, but occured compile error. expression class is not enough features](https://github.com/kk0917/try_tdd_with_scala/pull/65)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210511.png)
+
 ## Day 181: May 10, 2021
 
 ### Today's Progress
