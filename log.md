@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 184: May 13, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[JavaScript Design Patterns](https://www.oreilly.co.jp/books/9784873116181/)
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* Impl 1.15 leave it to tests and compiler
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* TDD - Test Driven Development
+	* [Commit: feat: abstraction to expression](https://github.com/kk0917/try_tdd_with_scala/commit/4973082fe704cc3bd4b6a9bc83d9febd686bb691)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210513.png)
+
 ## Day 183: May 12, 2021
 
 ### Today's Progress
