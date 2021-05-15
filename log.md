@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 186: May 15, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+* Replace repository to change JS lang to TS lang with Deno
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Design Patterns with TS on Deno
+	* [Repo: kk0917/design_patterns_with_ts_on_deno](https://github.com/kk0917/design_patterns_with_ts_on_deno)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210515.png)
+
 ## Day 185: May 14, 2021
 
 ### Today's Progress

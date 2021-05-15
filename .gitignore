@@ -11,3 +11,6 @@ node_modules
 
 # node module related
 .env
+
+# Mac related
+/.DS_Store
