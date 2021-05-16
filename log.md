@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 187: May 16, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+* add checking http request headers
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Tweet Automate of #100DaysOfCode
+	* [commit: feat: add checking request headers](https://github.com/kk0917/tweet_automate_of_100daysofcode/commit/668ba455f3f99ab2d045ce86c7e80c92baad2c99)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210516.png)
+
 ## Day 186: May 15, 2021
 
 ### Today's Progress
