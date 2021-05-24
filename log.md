@@ -2,6 +2,83 @@
 
 `Write Record Descending date order`
 
+## Day 188: May 24, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* Impl 1.15 
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Try TDD with Scala
+	* [commit: fix: debug failed cases](https://github.com/kk0917/try_tdd_with_scala/commit/8febf17e1b6c95aafa8fe8d5ab099688873c49d5)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210524.png)
+
+## ~~Day 188: May 23, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 188: May 22, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 188: May 22, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 188: May 21, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 188: May 20, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 188: May 19, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 188: May 18, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 188: May 17, 2021~~
+
+I had sick last week and so tired..
+
 ## Day 187: May 16, 2021
 
 ### Today's Progress
