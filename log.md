@@ -2,6 +2,52 @@
 
 `Write Record Descending date order`
 
+## Day 189: May 25, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* Impl 1.16
+	* add test case and update temp impl to completed impl 
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Try TDD with Scala
+	* [PR: feat: impl 1.16 test thought future reader](https://github.com/kk0917/try_tdd_with_scala/pull/70/commits/0c0ce3ceb00f54a0778603d4a5160464d47a7007)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210525.png)
+
 ## Day 188: May 24, 2021
 
 ### Today's Progress
