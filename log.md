@@ -2,6 +2,52 @@
 
 `Write Record Descending date order`
 
+## Day 190: May 26, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* Impl 1.16
+	* added test cases and hoisted def from subclass to superclass, trait
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Try TDD with Scala
+	* [commit: feat: add test cases and hoist def from subclass to superclass, trait](https://github.com/kk0917/try_tdd_with_scala/commit/e58c45e2e0addff80f8000859eab83a24e21c88f)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210526.png)
+
 ## Day 189: May 25, 2021
 
 ### Today's Progress
