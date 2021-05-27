@@ -2,6 +2,52 @@
 
 `Write Record Descending date order`
 
+## Day 191: May 27, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+* fetch http request body according to content-type
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Tweet Automate of #100DaysOfCode
+	* [commit: feat: fetch http request body according to content-type](https://github.com/kk0917/tweet_automate_of_100daysofcode/commit/76acce335d98d0d4cca94a43f7f5cb898c148041)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210527.png)
+
+
 ## Day 190: May 26, 2021
 
 ### Today's Progress
