@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 192: May 28, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+* add verifying content-type of http request
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Tweet Automate of #100DaysOfCode
+	* [commit: feat: add verifying content-type of http request](https://github.com/kk0917/tweet_automate_of_100daysofcode/commit/7bb74bc6561979b516f461568f33fe7bc15634d4)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210528.png)
+
 ## Day 191: May 27, 2021
 
 ### Today's Progress
