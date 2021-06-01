@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 196: June 1, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+* added comments to classes and methods with general style of scaladoc
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Try TDD with Scala
+	* [Commit: chore: add comments to Money's plus method](https://github.com/kk0917/try_tdd_with_scala/commit/138dad0ddd71f9ffaee1f866370d9a0a401ef0fd)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210601.png)
+
 ## Day 195: May 31, 2021
 
 ### Today's Progress
