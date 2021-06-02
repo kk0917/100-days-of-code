@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 197: June 2, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+* wrote a test codes to confirm whether if the gateway can return response or not
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+I tried to deploy this repo by gcloud commands from local, but I got an error. I'll debug tomorrow.
+
+#### Link to work
+
+* Tweet Automate of #100DaysOfCode
+	* [Commit: feat: written a test codes](https://github.com/kk0917/tweet_automate_of_100daysofcode/commit/325f891f1fe6d0b517dd8138ff7849a1429c9faf)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210602.png)
+
 ## Day 196: June 1, 2021
 
 ### Today's Progress
