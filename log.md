@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 199: June 4, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+* Refactoring whole codes
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Box Search Interface
+	* [commit: refactor: summarized the value objects to one file as export.](https://github.com/kk0917/box_search_interface/commit/894431acc8554cb798b1a0537f6dfae1e189203c)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210604.png)
+
 ## Day 198: June 3, 2021
 
 ### Today's Progress
