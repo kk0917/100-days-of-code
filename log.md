@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 200: June 5, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+* typo and add returns type of gateway class
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Box Search Interface
+	* [commit: fix: typo and add returns type of gateway class](https://github.com/kk0917/tweet_automate_of_100daysofcode/commit/ea206b30cb04cf8306b74a8e7efd2c9430ff7fbf)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210605.png)
+
 ## Day 199: June 4, 2021
 
 ### Today's Progress
