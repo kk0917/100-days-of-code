@@ -2,6 +2,91 @@
 
 `Write Record Descending date order`
 
+## Day 205: June 20, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+* Refactored the whole codes
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Box Search Interface
+	* [PR - refactor: refactor whole codes](https://github.com/kk0917/box_search_interface/pull/29)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210620.png)
+
+## ~~Day 205: June 19, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 205: June 18, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 205: June 17, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 205: June 16, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 205: June 15, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 205: June 14, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 205: June 13, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 205: June 12, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 205: June 11, 2021~~
+
+I had sick last week and so tired..
+
+## ~~Day 205: June 10, 2021~~
+
+I had sick last week and so tired..
+
 ## Day 204: June 9, 2021
 
 ### Today's Progress
