@@ -2,6 +2,52 @@
 
 `Write Record Descending date order`
 
+## Day 206: June 21, 2021
+
+### Today's Progress
+
+#### Projects
+
+Tweet Automate of #100DaysOfCode
+
+> No progress
+
+Re: adsearch.tokyo
+
+> No progress
+
+Box Search Interface
+
+* Refactored the whole codes
+
+Facebook Conversion API
+
+> No update
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Box Search Interface
+	* [Commit - fix: minor fix](https://github.com/kk0917/box_search_interface/pull/30/commits/5795b50a46e87dc2964d759918c4bd2d3359e8a0)
+	* [Commit - fix: fix degrade point](https://github.com/kk0917/box_search_interface/pull/30/commits/549bab7e3a52895469c61f89d98deb119708d74d)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210621.png)
+
 ## Day 205: June 20, 2021
 
 ### Today's Progress
