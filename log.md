@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 213: June 28, 2021
+
+### Today's Progress
+
+#### Projects
+
+Re: adsearch.tokyo
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+Tweet Automate of #100DaysOfCode
+
+> No update
+
+Workflow Automate with Office Script
+
+* Added a tutorial codes and confirmed the excel's behaviour.
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress	
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Workflow Automate with Office Script
+	* [Commit - feat: add a new case of the workflow](https://github.com/kk0917/workflow_automate_with_office_script/commit/a23305a4a2a981212f27f0fedac347528109a561)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210628.png)
+
 ## Day 212: June 27, 2021
 
 ### Today's Progress
@@ -32,7 +77,7 @@ Workflow Automate with Office Script
 
 [TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
 
-> No progress
+> No progress	
 
 #### Thoughts
 
