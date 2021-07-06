@@ -2,6 +2,51 @@
 
 `Write Record Descending date order`
 
+## Day 220: July 6, 2021
+
+### Today's Progress
+
+#### Projects
+
+Re: adsearch.tokyo
+
+> No progress
+
+Facebook Conversion API
+
+> No update
+
+Tweet Automate of #100DaysOfCode
+
+> No update
+
+Workflow Automate with Office Script
+
+* changed the directory structure
+
+#### Learning
+
+[Design Patterns](https://www.oreilly.co.jp/books/9784873116181/) - Design Patterns with TS on Deno
+
+> No progress
+
+[TDD - Test Driven Development](https://www.ohmsha.co.jp/book/9784274217883/) - Try TDD with Scala
+
+> No progress	
+
+#### Thoughts
+
+...
+
+#### Link to work
+
+* Workflow Automate with Office Script
+	* [PR - chore: change directory structure](https://github.com/kk0917/workflow_automate_with_office_script/pull/17)
+
+#### Statistics - WakaTime
+
+![WakaTime](images/wakatime_20210706.png)
+
 ## Day 219: July 5, 2021
 
 ### Today's Progress
