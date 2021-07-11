@@ -2,6 +2,25 @@
 
 `Write Record Descending date order`
 
+## Day ~~999~~: July 11, 2021
+
+### Last week's review
+
+#### Projects
+
+> No progress other than 'Tweet Automate of #100DaysOfCode'
+
+> Must progress 'Re: adsearch.tokyo' as top priority
+
+#### Learning
+
+> [Workflow Automate with Office Script](https://docs.microsoft.com/ja-jp/office/dev/scripts/resources/samples/excel-samples)
+
+> Done! Got the hang of it by tutorials and samples.
+
+> I wanna finish these learnings tasks as soon as.
+
+
 ## Day 224: July 10, 2021
 
 ### Today's Progress
